@@ -1,4 +1,4 @@
-# Eval Agent System (LangGraph)
+# Veritas: Eval Agent System (LangGraph)
 
 Four agents, each owned by one team member, wired together as a LangGraph.
 
