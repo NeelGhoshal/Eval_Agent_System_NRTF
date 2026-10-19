@@ -10,9 +10,18 @@ Severity = Literal["low", "medium", "high", "critical"]
 
 
 # ---- Evaluation Agent -------------------------------------------------------
+class EvalFinding(TypedDict):
+    code: str  # stable ID, e.g. "MISSING_FISCAL"
+    severity: Severity
+    message: str  # human-readable, one line
+    evidence: Optional[str]
+
+
 class EvaluationResult(TypedDict):
+    doc_type: Literal["nc_bill", "generic"]
     overall_score: float  # 0.0 - 1.0
-    criteria_scores: dict[str, float]  # e.g. clarity, rigor, completeness
+    criteria_scores: dict[str, float]  # completeness, provenance, clarity
+    findings: list[EvalFinding]
     summary: str
 
 
