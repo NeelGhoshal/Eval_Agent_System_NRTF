@@ -4,7 +4,8 @@ Each agent owns exactly one output key on `EvalState` and one result type below.
 Changing an agent's output shape = edit its type here + its own agent.py.
 Agents run in parallel, so they must never write to each other's keys.
 """
-from typing import Literal, Optional, TypedDict
+import operator
+from typing import Annotated, Literal, Optional, TypedDict
 
 Severity = Literal["low", "medium", "high", "critical"]
 
@@ -62,5 +63,7 @@ class EvalState(TypedDict, total=False):
     claim_verification: ClaimVerificationResult
     authority_check: AuthorityCheckResult
     contradictions: ContradictionResult
+    # failures, merged across parallel agents: {agent_name: message}
+    errors: Annotated[dict, operator.or_]
     # output
     report: dict

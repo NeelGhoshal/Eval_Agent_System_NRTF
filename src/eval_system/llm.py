@@ -46,7 +46,8 @@ def snowflake_llm(prompt: str, system: str = "", model: str | None = None) -> st
             "stream": False,
         },
     )
-    r.raise_for_status()
+    if not r.ok:  # surface Snowflake's own message (e.g. "Network policy is required")
+        raise RuntimeError(f"Snowflake {r.status_code}: {r.text[:300]}")
     return r.json()["choices"][0]["message"]["content"]
 
 
@@ -57,3 +58,10 @@ def snowflake_json(prompt: str, system: str = "", model: str | None = None):
     if not match:
         raise ValueError(f"No JSON in model reply: {text[:200]!r}")
     return json.loads(match.group(0))
+
+
+MAX_DOC_CHARS = 15_000
+
+
+def clip(text: str, limit: int = MAX_DOC_CHARS) -> str:
+    return text if len(text) <= limit else text[:limit] + " [...document truncated...]"

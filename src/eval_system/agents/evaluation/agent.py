@@ -2,37 +2,27 @@
 
 Reads:  state["document"]
 Writes: state["evaluation"]  (EvaluationResult)
-
-This is the reference example of an agent calling the shared LLM (see llm.py).
 """
-from ...llm import is_configured, snowflake_json
+from ...llm import clip, snowflake_json
 from ...state import EvalState, EvaluationResult
-from .prompts import SYSTEM_PROMPT
+from .prompts import SYSTEM_PROMPT, USER_PROMPT
 
 CRITERIA = ["clarity", "rigor", "completeness", "structure"]
 
 
+def _score(value) -> float:
+    try:
+        return min(1.0, max(0.0, float(value)))
+    except (TypeError, ValueError):
+        return 0.0
+
+
 def evaluation_node(state: EvalState) -> dict:
-    document = state["document"]
-
-    if not is_configured():  # no Snowflake credentials yet: keep the skeleton runnable
-        result: EvaluationResult = {
-            "overall_score": 0.0,
-            "criteria_scores": {c: 0.0 for c in CRITERIA},
-            "summary": "[stub] Snowflake LLM not configured",
-        }
-        return {"evaluation": result}
-
-    data = snowflake_json(
-        f"Document:\n{document}\n\nReturn JSON: "
-        '{"criteria_scores": {"clarity": 0-1, "rigor": 0-1, "completeness": 0-1, "structure": 0-1}, '
-        '"summary": "short text"}',
-        system=SYSTEM_PROMPT,
-    )
-    scores = {c: float(data["criteria_scores"].get(c, 0.0)) for c in CRITERIA}
-    result = {
+    data = snowflake_json(USER_PROMPT.format(document=clip(state["document"])), system=SYSTEM_PROMPT)
+    scores = {c: _score(data.get("criteria_scores", {}).get(c)) for c in CRITERIA}
+    result: EvaluationResult = {
         "overall_score": sum(scores.values()) / len(scores),
         "criteria_scores": scores,
-        "summary": data.get("summary", ""),
+        "summary": str(data.get("summary", "")),
     }
     return {"evaluation": result}
