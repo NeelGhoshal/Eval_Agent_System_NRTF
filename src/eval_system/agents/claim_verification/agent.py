@@ -4,6 +4,7 @@ Reads:  state["document"]
 Writes: state["claim_verification"]  (ClaimVerificationResult)
 """
 from ...state import ClaimCheck, ClaimVerificationResult, EvalState
+from ...llm import snowflake_json, snowflake_llm  # noqa: F401  (shared Snowflake LLM)
 from .prompts import EXTRACT_CLAIMS_PROMPT, VERIFY_CLAIM_PROMPT  # noqa: F401
 
 

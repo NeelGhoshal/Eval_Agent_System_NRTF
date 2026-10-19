@@ -1,7 +1,18 @@
 """Streamlit UI. Local: cd src && streamlit run app.py"""
+import os
+
 import streamlit as st
 
 from eval_system.graph import AGENT_NODES, build_graph
+from eval_system.llm import is_configured
+
+# On Streamlit Cloud, credentials come from the app's Secrets; locally from env vars.
+for _key in ("SNOWFLAKE_ACCOUNT", "SNOWFLAKE_TOKEN", "SNOWFLAKE_MODEL"):
+    try:
+        if _key in st.secrets:
+            os.environ[_key] = str(st.secrets[_key])
+    except Exception:  # no secrets file locally
+        pass
 
 SEVERITY_ICON = {"low": "🟢", "medium": "🟡", "high": "🟠", "critical": "🔴"}
 
@@ -53,6 +64,8 @@ def show_contradictions(r):
 
 
 st.title("Eval Agent System")
+if not is_configured():
+    st.warning("Snowflake LLM not configured (set SNOWFLAKE_ACCOUNT and SNOWFLAKE_TOKEN); agents run as stubs.")
 st.write("Paste a document. Four agents evaluate quality, verify claims, check authority, and find contradictions.")
 
 document = st.text_area("Document", height=220, placeholder="Paste document text here...")
