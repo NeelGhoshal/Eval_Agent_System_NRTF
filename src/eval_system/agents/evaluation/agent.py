@@ -21,8 +21,10 @@ def evaluation_node(state: EvalState) -> dict:
     data = snowflake_json(USER_PROMPT.format(document=clip(state["document"])), system=SYSTEM_PROMPT)
     scores = {c: _score(data.get("criteria_scores", {}).get(c)) for c in CRITERIA}
     result: EvaluationResult = {
+        "doc_type": "generic",  # TODO: nc_bill detection once the bill-specific checks exist
         "overall_score": sum(scores.values()) / len(scores),
         "criteria_scores": scores,
+        "findings": [],
         "summary": str(data.get("summary", "")),
     }
     return {"evaluation": result}

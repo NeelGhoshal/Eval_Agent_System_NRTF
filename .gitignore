@@ -3,3 +3,4 @@ __pycache__/
 .env
 src/.streamlit/secrets.toml
 .streamlit/secrets.toml
+local_only

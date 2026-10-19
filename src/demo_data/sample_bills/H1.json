@@ -1,0 +1,258 @@
+{
+    "body": "H", 
+    "texts": [
+        {
+            "alt_mime": "", 
+            "type_id": 1, 
+            "url": "https://legiscan.com/NC/text/H1/id/3462189", 
+            "doc_id": 3462189, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "6432832c5014b3c0e91c6767daeab94a", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H1v0.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 167038, 
+            "type": "Introduced", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 3, 
+            "url": "https://legiscan.com/NC/text/H1/id/3462190", 
+            "doc_id": 3462190, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "d77f1b7c926fcfc563a33e090253277f", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H1v1.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 134858, 
+            "type": "Amended", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 5, 
+            "url": "https://legiscan.com/NC/text/H1/id/3462438", 
+            "doc_id": 3462438, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "d21072e0a0f403374ae4a6c5c7596272", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H1v2.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-14", 
+            "text_size": 135097, 
+            "type": "Enrolled", 
+            "alt_text_size": 0
+        }
+    ], 
+    "session": {
+        "sine_die": 0, 
+        "prefile": 0, 
+        "year_start": 2026, 
+        "year_end": 2026, 
+        "session_id": 2274, 
+        "prior": 0, 
+        "session_tag": "1st Special Session", 
+        "state_id": 33, 
+        "session_title": "2026 1st Special Session", 
+        "session_name": "2026 First Extra Session", 
+        "special": 0
+    }, 
+    "committee": [], 
+    "sasts": [], 
+    "bill_number": "H1", 
+    "calendar": [], 
+    "change_hash": "f4a6657dfe381d07838975e3941f942e", 
+    "votes": [
+        {
+            "absent": 5, 
+            "total": 118, 
+            "chamber": "H", 
+            "yea": 68, 
+            "date": "2026-10-07", 
+            "chamber_id": 75, 
+            "url": "https://legiscan.com/NC/rollcall/H1/id/1728597", 
+            "passed": 1, 
+            "roll_call_id": 1728597, 
+            "nay": 43, 
+            "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025E1/H/3", 
+            "nv": 2, 
+            "desc": "R2 For Adoption"
+        }, 
+        {
+            "absent": 5, 
+            "total": 118, 
+            "chamber": "H", 
+            "yea": 68, 
+            "date": "2026-10-07", 
+            "chamber_id": 75, 
+            "url": "https://legiscan.com/NC/rollcall/H1/id/1728598", 
+            "passed": 1, 
+            "roll_call_id": 1728598, 
+            "nay": 43, 
+            "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025E1/H/2", 
+            "nv": 2, 
+            "desc": "R2 For Adoption M4 Previous Question"
+        }
+    ], 
+    "title": "House Rules - 2026 First Extra Session", 
+    "state": "NC", 
+    "subjects": [
+        {
+            "subject_id": 342545, 
+            "subject_name": "Adopted"
+        }, 
+        {
+            "subject_id": 342230, 
+            "subject_name": "General Assembly"
+        }, 
+        {
+            "subject_id": 400686, 
+            "subject_name": "Resolutions, Simple"
+        }, 
+        {
+            "subject_id": 400687, 
+            "subject_name": "Rules, House & Senate"
+        }
+    ], 
+    "progress": [
+        {
+            "date": "2026-10-07", 
+            "event": 1
+        }, 
+        {
+            "date": "2026-10-07", 
+            "event": 4
+        }
+    ], 
+    "current_body": "H", 
+    "status_date": "2026-10-07", 
+    "status": 4, 
+    "pending_committee_id": 0, 
+    "description": "House Rules - 2026 First Extra Session", 
+    "state_link": "https://www.ncleg.gov/BillLookUp/2025E1/H1", 
+    "completed": 1, 
+    "bill_type": "R", 
+    "sponsors": [
+        {
+            "last_name": "Bell", 
+            "suffix": "IV", 
+            "ftm_eid": 10886006, 
+            "state_federal": 0, 
+            "people_id": 14604, 
+            "sponsor_type_id": 1, 
+            "first_name": "John", 
+            "middle_name": "Richard", 
+            "committee_id": 0, 
+            "district": "HD-010", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 136158, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2301", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/john-bell-528694135/", 
+                        "facebook": "https://www.facebook.com/john.bell.9674", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/661", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/JohnBellNC", 
+                        "youtube": "https://www.youtube.com/channel/UC6vnVjrxxdyxsr0RhZ4SSkA", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/john.bell.nchouse10", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3017", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/136158", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/John_Bell_%28North_Carolina%29", 
+                    "capitol_phone": "919-715-3017", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/661", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/661"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 1, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "300ejc67", 
+            "opensecrets_id": "", 
+            "name": "John Bell", 
+            "ballotpedia": "John_Bell_(North_Carolina)", 
+            "knowwho_pid": 397574, 
+            "state_id": 33
+        }
+    ], 
+    "bill_type_id": "2", 
+    "amendments": [], 
+    "body_id": 75, 
+    "referrals": [], 
+    "url": "https://legiscan.com/NC/bill/H1/2026", 
+    "session_id": 2274, 
+    "current_body_id": 75, 
+    "supplements": [], 
+    "state_id": 33, 
+    "decoded_text": "Binary document (application/pdf). Content saved.", 
+    "bill_id": 2160143, 
+    "history": [
+        {
+            "date": "2026-10-07", 
+            "action": "Filed", 
+            "importance": 1, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 1st Reading", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Added to Calendar", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Adopted", 
+            "importance": 1, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }
+    ]
+}

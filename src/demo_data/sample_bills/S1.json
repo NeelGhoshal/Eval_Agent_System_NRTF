@@ -1,0 +1,998 @@
+{
+    "body": "S", 
+    "texts": [
+        {
+            "alt_mime": "", 
+            "type_id": 1, 
+            "url": "https://legiscan.com/NC/text/S1/id/3462191", 
+            "doc_id": 3462191, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "394078e5290e30195da83e775fc2c6c2", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/Senate/PDF/S1v0.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 164970, 
+            "type": "Introduced", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 3, 
+            "url": "https://legiscan.com/NC/text/S1/id/3462192", 
+            "doc_id": 3462192, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "c6c2f2da9465228f4fef3b3d9350e40e", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/Senate/PDF/S1v1.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 130524, 
+            "type": "Amended", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 5, 
+            "url": "https://legiscan.com/NC/text/S1/id/3462193", 
+            "doc_id": 3462193, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "08a5ea05a183f66f682a4db520a0ea28", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/Senate/PDF/S1v2.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 130830, 
+            "type": "Enrolled", 
+            "alt_text_size": 0
+        }
+    ], 
+    "session": {
+        "sine_die": 0, 
+        "prefile": 0, 
+        "year_start": 2026, 
+        "year_end": 2026, 
+        "session_id": 2274, 
+        "prior": 0, 
+        "session_tag": "1st Special Session", 
+        "state_id": 33, 
+        "session_title": "2026 1st Special Session", 
+        "session_name": "2026 First Extra Session", 
+        "special": 0
+    }, 
+    "committee": [], 
+    "sasts": [], 
+    "bill_number": "S1", 
+    "calendar": [], 
+    "change_hash": "74881b29b2870d74f0bc04056c6613c1", 
+    "votes": [
+        {
+            "absent": 11, 
+            "total": 50, 
+            "chamber": "S", 
+            "yea": 36, 
+            "date": "2026-10-07", 
+            "chamber_id": 76, 
+            "url": "https://legiscan.com/NC/rollcall/S1/id/1728603", 
+            "passed": 1, 
+            "roll_call_id": 1728603, 
+            "nay": 0, 
+            "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025E1/S/1", 
+            "nv": 3, 
+            "desc": "Motion 8 To Adopt"
+        }
+    ], 
+    "title": "Senate Rules - 2026 First Extra Session", 
+    "state": "NC", 
+    "subjects": [
+        {
+            "subject_id": 342545, 
+            "subject_name": "Adopted"
+        }, 
+        {
+            "subject_id": 342230, 
+            "subject_name": "General Assembly"
+        }, 
+        {
+            "subject_id": 400686, 
+            "subject_name": "Resolutions, Simple"
+        }, 
+        {
+            "subject_id": 400687, 
+            "subject_name": "Rules, House & Senate"
+        }
+    ], 
+    "progress": [
+        {
+            "date": "2026-10-07", 
+            "event": 1
+        }, 
+        {
+            "date": "2026-10-07", 
+            "event": 4
+        }
+    ], 
+    "current_body": "S", 
+    "status_date": "2026-10-07", 
+    "status": 4, 
+    "pending_committee_id": 0, 
+    "description": "Senate Rules - 2026 First Extra Session", 
+    "state_link": "https://www.ncleg.gov/BillLookUp/2025E1/S1", 
+    "completed": 1, 
+    "bill_type": "R", 
+    "sponsors": [
+        {
+            "last_name": "Hise", 
+            "suffix": "Jr.", 
+            "ftm_eid": 13012763, 
+            "state_federal": 0, 
+            "people_id": 11937, 
+            "sponsor_type_id": 1, 
+            "first_name": "Ralph", 
+            "middle_name": "E.", 
+            "committee_id": 0, 
+            "district": "SD-047", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 117794, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 300-A", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/ralph.hise.35", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/298", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/117794", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Ralph_Hise", 
+                    "capitol_phone": "919-733-3460", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/298", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/298"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 1, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "eo7r0ec3", 
+            "opensecrets_id": "", 
+            "name": "Ralph Hise", 
+            "ballotpedia": "Ralph_Hise", 
+            "knowwho_pid": 290237, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Britt", 
+            "suffix": "Jr.", 
+            "ftm_eid": 5874219, 
+            "state_federal": 0, 
+            "people_id": 18465, 
+            "sponsor_type_id": 2, 
+            "first_name": "Danny", 
+            "middle_name": "Earl", 
+            "committee_id": 0, 
+            "district": "SD-024", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 166587, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 523", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/dannyebritt", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/danny-britt-b292a79/", 
+                        "facebook": "https://www.facebook.com/danny.e.britt", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/399", 
+                        "instagram": "https://www.instagram.com/senatorbritt/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/166587", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Danny_Earl_Britt", 
+                    "capitol_phone": "919-733-5651", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/399", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/399"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 2, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "mmq16cl2", 
+            "opensecrets_id": "", 
+            "name": "Danny Britt", 
+            "ballotpedia": "Danny_Earl_Britt", 
+            "knowwho_pid": 564380, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Burgin", 
+            "suffix": "", 
+            "ftm_eid": 5933383, 
+            "state_federal": 0, 
+            "people_id": 20216, 
+            "sponsor_type_id": 2, 
+            "first_name": "James", 
+            "middle_name": "Andrew", 
+            "committee_id": 0, 
+            "district": "SD-012", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 114731, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 620", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/burgin4harnett", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/jim.burgin.391", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/412", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/SenatorJimBurgin/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/114731", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jim_Burgin", 
+                    "capitol_phone": "919-733-5748", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/412", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/412"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 3, 
+            "party_id": "2", 
+            "nickname": "Jim", 
+            "person_hash": "z228z23w", 
+            "opensecrets_id": "", 
+            "name": "Jim Burgin", 
+            "ballotpedia": "Jim_Burgin", 
+            "knowwho_pid": 656881, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Corbin", 
+            "suffix": "", 
+            "ftm_eid": 38445234, 
+            "state_federal": 0, 
+            "people_id": 18454, 
+            "sponsor_type_id": 2, 
+            "first_name": "Harold", 
+            "middle_name": "Kevin", 
+            "committee_id": 0, 
+            "district": "SD-050", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 166642, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 623", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/166642", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Kevin_Corbin", 
+                    "capitol_phone": "919-733-5875", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/433", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/433"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 4, 
+            "party_id": "2", 
+            "nickname": "Kevin", 
+            "person_hash": "9052kwzm", 
+            "opensecrets_id": "", 
+            "name": "Kevin Corbin", 
+            "ballotpedia": "Kevin_Corbin", 
+            "knowwho_pid": 564343, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Daniel", 
+            "suffix": "", 
+            "ftm_eid": 6685849, 
+            "state_federal": 0, 
+            "people_id": 12033, 
+            "sponsor_type_id": 2, 
+            "first_name": "Warren", 
+            "middle_name": "Todd", 
+            "committee_id": 0, 
+            "district": "SD-046", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 117792, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 627", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/senator_warren_daniel/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "https://www.youtube.com/@DanielforSenate", 
+                        "linkedin": "https://www.linkedin.com/in/warren-daniel-91842a11/", 
+                        "facebook": "https://www.facebook.com/warren.daniel.94", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/295", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/117792", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Warren_Daniel", 
+                    "capitol_phone": "919-715-7823", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/295", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/295"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 5, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "srp6rgev", 
+            "opensecrets_id": "", 
+            "name": "Warren Daniel", 
+            "ballotpedia": "Warren_Daniel", 
+            "knowwho_pid": 292215, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Ford", 
+            "suffix": "", 
+            "ftm_eid": 6653858, 
+            "state_federal": 0, 
+            "people_id": 14615, 
+            "sponsor_type_id": 2, 
+            "first_name": "Carl", 
+            "middle_name": "Lindsey", 
+            "committee_id": 0, 
+            "district": "SD-033", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 114823, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 625", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/carl-ford-97957a78", 
+                        "facebook": "https://www.facebook.com/carl.ford.33", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/410", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/SenatorCarlFord/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/114823", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Carl_Ford_%28North_Carolina%29", 
+                    "capitol_phone": "919-733-5665", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/410", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/410"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 6, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "2b016hof", 
+            "opensecrets_id": "", 
+            "name": "Carl Ford", 
+            "ballotpedia": "Carl_Ford_(North_Carolina)", 
+            "knowwho_pid": 400996, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Galey", 
+            "suffix": "", 
+            "ftm_eid": 42467886, 
+            "state_federal": 0, 
+            "people_id": 22423, 
+            "sponsor_type_id": 2, 
+            "first_name": "Amy", 
+            "middle_name": "Scott", 
+            "committee_id": 0, 
+            "district": "SD-025", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 188910, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 311", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/amy-galey-45948067/", 
+                        "facebook": "https://www.facebook.com/amy.galey", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/429", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/188910", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Amy_Galey", 
+                    "capitol_phone": "919-301-1446", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/429", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/429"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 7, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "07q64s14", 
+            "opensecrets_id": "", 
+            "name": "Amy Galey", 
+            "ballotpedia": "Amy_Galey", 
+            "knowwho_pid": 726551, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "McInnis", 
+            "suffix": "", 
+            "ftm_eid": 6045803, 
+            "state_federal": 0, 
+            "people_id": 17437, 
+            "sponsor_type_id": 2, 
+            "first_name": "Thomas", 
+            "middle_name": "Moses", 
+            "committee_id": 0, 
+            "district": "SD-021", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 149828, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 314", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/tom-mcinnis-37564b23/", 
+                        "facebook": "https://www.facebook.com/tom.mcinnis.1", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/389", 
+                        "instagram": "https://www.instagram.com/senatortommcinnis/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/149828", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Tom_McInnis", 
+                    "capitol_phone": "919-733-5953", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/389", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/389"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 8, 
+            "party_id": "2", 
+            "nickname": "Tom", 
+            "person_hash": "rg2j38um", 
+            "opensecrets_id": "", 
+            "name": "Thomas McInnis", 
+            "ballotpedia": "Tom_McInnis", 
+            "knowwho_pid": 487123, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Moffitt", 
+            "suffix": "", 
+            "ftm_eid": 5962937, 
+            "state_federal": 0, 
+            "people_id": 11858, 
+            "sponsor_type_id": 2, 
+            "first_name": "Timothy", 
+            "middle_name": "Douglas", 
+            "committee_id": 0, 
+            "district": "SD-048", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 103082, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 520", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "https://www.youtube.com/@timmoffittworks6027", 
+                        "linkedin": "https://www.linkedin.com/in/tim-moffitt-92399244/", 
+                        "facebook": "https://www.facebook.com/timothy.d.moffitt", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/438", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/103082", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Timothy_Moffitt", 
+                    "capitol_phone": "919-733-5745", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/438", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/438"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 9, 
+            "party_id": "2", 
+            "nickname": "Tim", 
+            "person_hash": "fj2xt2e1", 
+            "opensecrets_id": "", 
+            "name": "Timothy Moffitt", 
+            "ballotpedia": "Timothy_Moffitt", 
+            "knowwho_pid": 268499, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Overcash", 
+            "suffix": "", 
+            "ftm_eid": 55294971, 
+            "state_federal": 0, 
+            "people_id": 24223, 
+            "sponsor_type_id": 2, 
+            "first_name": "Bradley", 
+            "middle_name": "Keith", 
+            "committee_id": 0, 
+            "district": "SD-043", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 207144, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 526", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "https://www.parkerpoe.com/attorneys/bradley-k-overcash", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/bradovercash/", 
+                        "facebook": "https://www.facebook.com/profile.php?id=2730237", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/444", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/207144", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Brad_Overcash", 
+                    "capitol_phone": "919-733-5734", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/444", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/444"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 10, 
+            "party_id": "2", 
+            "nickname": "Brad", 
+            "person_hash": "6tv3caqo", 
+            "opensecrets_id": "", 
+            "name": "Brad Overcash", 
+            "ballotpedia": "Brad_Overcash", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Sanderson", 
+            "suffix": "", 
+            "ftm_eid": 6044324, 
+            "state_federal": 0, 
+            "people_id": 11862, 
+            "sponsor_type_id": 2, 
+            "first_name": "Norman", 
+            "middle_name": "W.", 
+            "committee_id": 0, 
+            "district": "SD-002", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 57684, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 309", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/norman-sanderson-a8684712/", 
+                        "facebook": "https://www.facebook.com/norman.sanderson.14", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/375", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/57684", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Norman_Sanderson", 
+                    "capitol_phone": "919-733-5706", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/375", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/375"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 11, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "hjmosjyr", 
+            "opensecrets_id": "", 
+            "name": "Norman Sanderson", 
+            "ballotpedia": "Norman_Sanderson", 
+            "knowwho_pid": 268420, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Settle", 
+            "suffix": "", 
+            "ftm_eid": 55294951, 
+            "state_federal": 0, 
+            "people_id": 24226, 
+            "sponsor_type_id": 2, 
+            "first_name": "Eddie", 
+            "middle_name": "Dean", 
+            "committee_id": 0, 
+            "district": "SD-036", 
+            "committee_sponsor": 0, 
+            "role_id": 2, 
+            "role": "Sen", 
+            "votesmart_id": 163256, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2117", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/settle-eddie-b36b3aaa", 
+                        "facebook": "https://www.facebook.com/eddie.settle", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/S/446", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/163256", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Eddie_Settle", 
+                    "capitol_phone": "919-733-5742", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/S/446", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/S/446"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 12, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "iq1d63jk", 
+            "opensecrets_id": "", 
+            "name": "Eddie Settle", 
+            "ballotpedia": "Eddie_Settle", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }
+    ], 
+    "bill_type_id": "2", 
+    "amendments": [], 
+    "body_id": 76, 
+    "referrals": [], 
+    "url": "https://legiscan.com/NC/bill/S1/2026", 
+    "session_id": 2274, 
+    "current_body_id": 76, 
+    "supplements": [], 
+    "state_id": 33, 
+    "decoded_text": "Binary document (application/pdf). Content saved.", 
+    "bill_id": 2160144, 
+    "history": [
+        {
+            "date": "2026-10-07", 
+            "action": "Filed", 
+            "importance": 1, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 1st Reading", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Placed on Today's Calendar", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Amendment Ruled Out-of-Order A1", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Adopted", 
+            "importance": 1, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }
+    ]
+}
