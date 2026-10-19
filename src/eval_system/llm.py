@@ -3,7 +3,7 @@
 All agents call `snowflake_llm` / `snowflake_json`; to switch models or providers,
 change this file (or SNOWFLAKE_MODEL) only.
 
-Config (env vars, or Streamlit secrets, see app.py):
+Config (env vars, a gitignored .env at the repo root, or Streamlit secrets, see app.py):
   SNOWFLAKE_ACCOUNT  account URL prefix, e.g. "myorg-myaccount" -> https://myorg-myaccount.snowflakecomputing.com
   SNOWFLAKE_TOKEN    programmatic access token (PAT), JWT, or OAuth token
   SNOWFLAKE_MODEL    optional, default below
@@ -13,6 +13,9 @@ import os
 import re
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()  # local dev only; never overrides vars already set (e.g. from Streamlit secrets)
 
 DEFAULT_MODEL = "mistral-large2"  # any model enabled for your account/region
 
