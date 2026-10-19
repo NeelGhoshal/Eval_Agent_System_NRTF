@@ -28,7 +28,7 @@ def main() -> None:
     public_body = "".join(l for l in public_pem.splitlines() if "-----" not in l)
 
     current.update(SNOWFLAKE_ACCOUNT=account, SNOWFLAKE_USER=user, SNOWFLAKE_PRIVATE_KEY=private_pem)
-    current.setdefault("SNOWFLAKE_MODEL", "mistral-large2")
+    current.setdefault("SNOWFLAKE_MODEL", "claude-sonnet-4-5")
     current.pop("SNOWFLAKE_TOKEN", None)  # key-pair auth replaces the access token
     lines = []
     for k, v in current.items():

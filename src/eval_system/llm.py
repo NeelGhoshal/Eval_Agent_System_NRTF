@@ -6,6 +6,7 @@ change this file (or SNOWFLAKE_MODEL) only.
 Config (env vars, a gitignored .env at the repo root, or Streamlit secrets, see app.py):
   SNOWFLAKE_ACCOUNT      account URL prefix, e.g. "myorg-myaccount" -> https://myorg-myaccount.snowflakecomputing.com
   SNOWFLAKE_MODEL        optional, default below
+  SNOWFLAKE_WAREHOUSE    optional, for the SQL API fallback used when the REST endpoint is blocked
   Auth, either:
   SNOWFLAKE_USER +
   SNOWFLAKE_PRIVATE_KEY  key-pair auth (preferred: needs no network policy). Set up with
@@ -26,7 +27,8 @@ from dotenv import load_dotenv
 
 load_dotenv()  # local dev only; never overrides vars already set (e.g. from Streamlit secrets)
 
-DEFAULT_MODEL = "mistral-large2"  # any model enabled for your account/region
+DEFAULT_MODEL = "claude-sonnet-4-5"  # any model enabled for your account/region (mistral-large2 is retired)
+DEFAULT_WAREHOUSE = "SNOWFLAKE_LEARNING_WH"  # only used by the SQL API fallback
 
 
 class LLMNotConfigured(RuntimeError):
@@ -68,33 +70,75 @@ def _keypair_jwt() -> str:
 def _auth_headers() -> dict:
     if os.environ.get("SNOWFLAKE_PRIVATE_KEY") and os.environ.get("SNOWFLAKE_USER"):
         return {"Authorization": f"Bearer {_keypair_jwt()}", "X-Snowflake-Authorization-Token-Type": "KEYPAIR_JWT"}
-    return {"Authorization": f"Bearer {os.environ['SNOWFLAKE_TOKEN']}"}
+    return {
+        "Authorization": f"Bearer {os.environ['SNOWFLAKE_TOKEN']}",
+        "X-Snowflake-Authorization-Token-Type": "PROGRAMMATIC_ACCESS_TOKEN",
+    }
+
+
+def _base_url() -> str:
+    return f"https://{os.environ['SNOWFLAKE_ACCOUNT']}.snowflakecomputing.com"
+
+
+def _headers() -> dict:
+    return {**_auth_headers(), "Content-Type": "application/json", "Accept": "application/json"}
+
+
+# Some accounts (e.g. trials) get 403 "not allowed to access this endpoint" from the Cortex REST API
+# but can still call Cortex via SQL. After the first such 403, every call goes through SQL.
+_REST_BLOCKED = '"code":"003001"'
+_transport = {"sql": False}
+
+
+def _complete_rest(messages: list, model: str) -> str:
+    r = requests.post(
+        f"{_base_url()}/api/v2/cortex/inference:complete",
+        timeout=60,
+        headers=_headers(),
+        json={"model": model, "messages": messages, "stream": False},
+    )
+    if r.status_code == 403 and _REST_BLOCKED in r.text.replace(" ", ""):
+        _transport["sql"] = True
+        return _complete_sql(messages, model)
+    if not r.ok:  # surface Snowflake's own message (e.g. "Network policy is required")
+        raise RuntimeError(f"Snowflake {r.status_code}: {r.text[:300]}")
+    return r.json()["choices"][0]["message"]["content"]
+
+
+def _complete_sql(messages: list, model: str) -> str:
+    """SNOWFLAKE.CORTEX.COMPLETE through the SQL API (needs a warehouse: SNOWFLAKE_WAREHOUSE)."""
+    url = f"{_base_url()}/api/v2/statements"
+    r = requests.post(
+        url,
+        timeout=90,
+        headers=_headers(),
+        json={
+            "statement": "SELECT SNOWFLAKE.CORTEX.COMPLETE(?, PARSE_JSON(?), {})",
+            "bindings": {
+                "1": {"type": "TEXT", "value": model},
+                "2": {"type": "TEXT", "value": json.dumps(messages)},
+            },
+            "warehouse": os.environ.get("SNOWFLAKE_WAREHOUSE") or DEFAULT_WAREHOUSE,
+            "timeout": 120,
+        },
+    )
+    deadline = time.time() + 120
+    while r.status_code == 202 and time.time() < deadline:  # still running: poll the statement handle
+        time.sleep(1)
+        r = requests.get(f"{url}/{r.json()['statementHandle']}", timeout=30, headers=_headers())
+    if r.status_code != 200:
+        raise RuntimeError(f"Snowflake SQL {r.status_code}: {r.text[:300]}")
+    return json.loads(r.json()["data"][0][0])["choices"][0]["messages"]
 
 
 def snowflake_llm(prompt: str, system: str = "", model: str | None = None) -> str:
     if not is_configured():
         raise LLMNotConfigured("Set SNOWFLAKE_ACCOUNT plus SNOWFLAKE_USER/SNOWFLAKE_PRIVATE_KEY (or SNOWFLAKE_TOKEN).")
-    url = f"https://{os.environ['SNOWFLAKE_ACCOUNT']}.snowflakecomputing.com/api/v2/cortex/inference:complete"
     messages = ([{"role": "system", "content": system}] if system else []) + [
         {"role": "user", "content": prompt}
     ]
-    r = requests.post(
-        url,
-        timeout=60,
-        headers={
-            **_auth_headers(),
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-        },
-        json={
-            "model": model or os.environ.get("SNOWFLAKE_MODEL", DEFAULT_MODEL),
-            "messages": messages,
-            "stream": False,
-        },
-    )
-    if not r.ok:  # surface Snowflake's own message (e.g. "Network policy is required")
-        raise RuntimeError(f"Snowflake {r.status_code}: {r.text[:300]}")
-    return r.json()["choices"][0]["message"]["content"]
+    model = model or os.environ.get("SNOWFLAKE_MODEL") or DEFAULT_MODEL  # empty env var = default
+    return (_complete_sql if _transport["sql"] else _complete_rest)(messages, model)
 
 
 def snowflake_json(prompt: str, system: str = "", model: str | None = None):

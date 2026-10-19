@@ -1,16 +1,26 @@
-SYSTEM_PROMPT = """You are a strict, fair document quality evaluator.
-Score each criterion from 0.0 (very poor) to 1.0 (excellent):
-- clarity: is the writing clear, unambiguous and easy to follow?
-- rigor: are claims supported by evidence, reasoning or citations?
-- completeness: does it cover what it sets out to, without obvious gaps?
-- structure: is it logically organised, with a coherent flow?
-Be critical: reserve scores above 0.9 for exceptional documents."""
+JUDGE_SYSTEM = """You are a strict reviewer of document quality. You judge only HOW a document is
+written, never whether its claims are true or whether its authors had authority to act.
+Score with whole numbers 0-5 and be consistent: the same document must get the same scores."""
 
-USER_PROMPT = """Document:
+# Filled with str.format(doc_type=..., document=...); literal braces are doubled.
+JUDGE_PROMPT = """Document type: {doc_type}
+
+Score this document on two dimensions (integers 0-5):
+
+provenance: Does it cite traceable sources or references (statutes, bill numbers, session laws,
+reports, links, named documents, dated records)? Judge traceability only, not whether they are true.
+  0 = no sources at all, 1-2 = vague ("officials say", "studies show"),
+  3 = some specific references, 4 = most statements traceable, 5 = fully referenced.
+
+clarity: Is the action or purpose specific (who does what, by when, with what money/effect)?
+  0 = cannot tell what it does, 1-2 = vague or generic language,
+  3 = main action clear but key details missing, 4 = specific, 5 = precise and unambiguous.
+
+Return exactly this JSON object:
+{{"provenance": <0-5>, "clarity": <0-5>,
+  "provenance_reason": "<one sentence>", "clarity_reason": "<one sentence>"}}
+
+Document:
 \"\"\"
 {document}
-\"\"\"
-
-Return JSON exactly in this shape:
-{{"criteria_scores": {{"clarity": 0.0, "rigor": 0.0, "completeness": 0.0, "structure": 0.0}},
-  "summary": "2-4 sentences naming the main strengths and weaknesses"}}"""
+\"\"\""""
