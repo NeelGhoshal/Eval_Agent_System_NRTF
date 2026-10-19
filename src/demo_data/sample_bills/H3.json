@@ -1,0 +1,4472 @@
+{
+    "body": "H", 
+    "texts": [
+        {
+            "alt_mime": "", 
+            "type_id": 1, 
+            "url": "https://legiscan.com/NC/text/H3/id/3462194", 
+            "doc_id": 3462194, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "d12c4313264292f685ebd7786f48219b", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H3v0.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 113886, 
+            "type": "Introduced", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 3, 
+            "url": "https://legiscan.com/NC/text/H3/id/3462195", 
+            "doc_id": 3462195, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "1a17886fdebc35dd63da8a7df48e0afc", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H3v1.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 24920, 
+            "type": "Amended", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 5, 
+            "url": "https://legiscan.com/NC/text/H3/id/3462196", 
+            "doc_id": 3462196, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "ab977d88cf59599f6c5a44897e7a7a72", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H3v2.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-07", 
+            "text_size": 22766, 
+            "type": "Enrolled", 
+            "alt_text_size": 0
+        }, 
+        {
+            "alt_mime": "", 
+            "type_id": 6, 
+            "url": "https://legiscan.com/NC/text/H3/id/3462273", 
+            "doc_id": 3462273, 
+            "alt_state_link": "", 
+            "alt_mime_id": 0, 
+            "text_hash": "c358cfbf32a6f80aeb9fe4c64b0af17d", 
+            "alt_bill_text": 0, 
+            "mime_id": 2, 
+            "state_link": "https://www.ncleg.gov/Sessions/2025E1/Bills/House/PDF/H3v3.pdf", 
+            "mime": "application/pdf", 
+            "alt_text_hash": "", 
+            "date": "2026-10-09", 
+            "text_size": 22494, 
+            "type": "Chaptered", 
+            "alt_text_size": 0
+        }
+    ], 
+    "session": {
+        "sine_die": 0, 
+        "prefile": 0, 
+        "year_start": 2026, 
+        "year_end": 2026, 
+        "session_id": 2274, 
+        "prior": 0, 
+        "session_tag": "1st Special Session", 
+        "state_id": 33, 
+        "session_title": "2026 1st Special Session", 
+        "session_name": "2026 First Extra Session", 
+        "special": 0
+    }, 
+    "committee": [], 
+    "sasts": [
+        {
+            "sast_bill_number": "S2", 
+            "type": "Same As", 
+            "sast_bill_id": 2160142, 
+            "type_id": 1
+        }
+    ], 
+    "bill_number": "H3", 
+    "calendar": [], 
+    "change_hash": "79d0610cb52c307e0d5f4d421b542cef", 
+    "votes": [
+        {
+            "absent": 5, 
+            "total": 118, 
+            "chamber": "H", 
+            "yea": 109, 
+            "date": "2026-10-07", 
+            "chamber_id": 75, 
+            "url": "https://legiscan.com/NC/rollcall/H3/id/1728599", 
+            "passed": 1, 
+            "roll_call_id": 1728599, 
+            "nay": 1, 
+            "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025E1/H/6", 
+            "nv": 3, 
+            "desc": "Second Reading"
+        }, 
+        {
+            "absent": 5, 
+            "total": 118, 
+            "chamber": "H", 
+            "yea": 69, 
+            "date": "2026-10-07", 
+            "chamber_id": 75, 
+            "url": "https://legiscan.com/NC/rollcall/H3/id/1728600", 
+            "passed": 1, 
+            "roll_call_id": 1728600, 
+            "nay": 42, 
+            "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025E1/H/5", 
+            "nv": 2, 
+            "desc": "Second Reading M4 Previous Question"
+        }, 
+        {
+            "absent": 9, 
+            "total": 50, 
+            "chamber": "S", 
+            "yea": 41, 
+            "date": "2026-10-07", 
+            "chamber_id": 76, 
+            "url": "https://legiscan.com/NC/rollcall/H3/id/1728602", 
+            "passed": 1, 
+            "roll_call_id": 1728602, 
+            "nay": 0, 
+            "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025E1/S/2", 
+            "nv": 0, 
+            "desc": "Second Reading"
+        }
+    ], 
+    "title": "Relief at the Pump", 
+    "state": "NC", 
+    "subjects": [
+        {
+            "subject_id": 342320, 
+            "subject_name": "Agriculture"
+        }, 
+        {
+            "subject_id": 342644, 
+            "subject_name": "Agriculture Dept."
+        }, 
+        {
+            "subject_id": 342102, 
+            "subject_name": "Appropriations"
+        }, 
+        {
+            "subject_id": 342104, 
+            "subject_name": "Budgeting"
+        }, 
+        {
+            "subject_id": 343355, 
+            "subject_name": "Debtor & Creditor"
+        }, 
+        {
+            "subject_id": 342255, 
+            "subject_name": "Fines & Penalties"
+        }, 
+        {
+            "subject_id": 345391, 
+            "subject_name": "Fuels"
+        }, 
+        {
+            "subject_id": 342110, 
+            "subject_name": "Funds & Accounts"
+        }, 
+        {
+            "subject_id": 342392, 
+            "subject_name": "Notification"
+        }, 
+        {
+            "subject_id": 342548, 
+            "subject_name": "Presented"
+        }, 
+        {
+            "subject_id": 342116, 
+            "subject_name": "Public"
+        }, 
+        {
+            "subject_id": 342250, 
+            "subject_name": "Public Officials"
+        }, 
+        {
+            "subject_id": 342549, 
+            "subject_name": "Ratified"
+        }, 
+        {
+            "subject_id": 342141, 
+            "subject_name": "Revenue Dept."
+        }, 
+        {
+            "subject_id": 344238, 
+            "subject_name": "State Controller"
+        }, 
+        {
+            "subject_id": 342147, 
+            "subject_name": "Taxation"
+        }, 
+        {
+            "subject_id": 401037, 
+            "subject_name": "Taxes, Fuel"
+        }, 
+        {
+            "subject_id": 347325, 
+            "subject_name": "Tax Collection"
+        }, 
+        {
+            "subject_id": 342639, 
+            "subject_name": "Chaptered"
+        }
+    ], 
+    "progress": [
+        {
+            "date": "2026-10-07", 
+            "event": 1
+        }, 
+        {
+            "date": "2026-10-07", 
+            "event": 2
+        }, 
+        {
+            "date": "2026-10-07", 
+            "event": 9
+        }, 
+        {
+            "date": "2026-10-07", 
+            "event": 3
+        }, 
+        {
+            "date": "2026-10-09", 
+            "event": 8
+        }, 
+        {
+            "date": "2026-10-09", 
+            "event": 4
+        }
+    ], 
+    "current_body": "H", 
+    "status_date": "2026-10-09", 
+    "status": 4, 
+    "pending_committee_id": 0, 
+    "description": "Relief at the Pump", 
+    "state_link": "https://www.ncleg.gov/BillLookUp/2025E1/H3", 
+    "completed": 1, 
+    "bill_type": "B", 
+    "sponsors": [
+        {
+            "last_name": "Hall", 
+            "suffix": "", 
+            "ftm_eid": 38445319, 
+            "state_federal": 0, 
+            "people_id": 18457, 
+            "sponsor_type_id": 1, 
+            "first_name": "Destin", 
+            "middle_name": "Chase", 
+            "committee_id": 0, 
+            "district": "HD-087", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 166631, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2304", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "https://www.repdestinhall.com/", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/destinhall/", 
+                        "facebook": "https://www.facebook.com/destin.hall.9", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/719", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/destinhallnorthcarolina/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-3451", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/166631", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Destin_Hall", 
+                    "capitol_phone": "919-733-3451", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/719", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/719"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 1, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "xr6ghrm1", 
+            "opensecrets_id": "", 
+            "name": "Destin Hall", 
+            "ballotpedia": "Destin_Hall", 
+            "knowwho_pid": 564291, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Adams", 
+            "suffix": "Jr.", 
+            "ftm_eid": 23442066, 
+            "state_federal": 0, 
+            "people_id": 17678, 
+            "sponsor_type_id": 1, 
+            "first_name": "James", 
+            "middle_name": "Cecil", 
+            "committee_id": 0, 
+            "district": "HD-096", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 150322, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2207", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/jay-adams-541b6718/", 
+                        "facebook": "https://www.facebook.com/Jaybird49", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/697", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5988", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/150322", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jay_Adams", 
+                    "capitol_phone": "919-733-5988", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/697", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/697"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 2, 
+            "party_id": "2", 
+            "nickname": "Jay", 
+            "person_hash": "yy8u19tu", 
+            "opensecrets_id": "", 
+            "name": "James Adams", 
+            "ballotpedia": "Jay_Adams", 
+            "knowwho_pid": 488136, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Almond", 
+            "suffix": "", 
+            "ftm_eid": 59506484, 
+            "state_federal": 0, 
+            "people_id": 25841, 
+            "sponsor_type_id": 1, 
+            "first_name": "Jonathan", 
+            "middle_name": "L.", 
+            "committee_id": 0, 
+            "district": "HD-073", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213862, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 602", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100086166980909", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/843", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-8361", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213862", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jonathan_Almond", 
+                    "capitol_phone": "919-715-8361", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/843", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/843"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 3, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "k14ndjk2", 
+            "opensecrets_id": "", 
+            "name": "Jonathan Almond", 
+            "ballotpedia": "Jonathan_Almond", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Arp", 
+            "suffix": "", 
+            "ftm_eid": 10886111, 
+            "state_federal": 0, 
+            "people_id": 14602, 
+            "sponsor_type_id": 1, 
+            "first_name": "Larry", 
+            "middle_name": "Dean", 
+            "committee_id": 0, 
+            "district": "HD-069", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 136300, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 307A", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/dean-arp-p-e-s-e-3a36171a5/", 
+                        "facebook": "https://www.facebook.com/dean.arp.3", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/640", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "https://www.youtube.com/channel/UCNh8GaeLnPdS1yja0E_qP8g", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3007", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/136300", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Dean_Arp", 
+                    "capitol_phone": "919-715-3007", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/640", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/640"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 4, 
+            "party_id": "2", 
+            "nickname": "Dean", 
+            "person_hash": "woil0tqc", 
+            "opensecrets_id": "", 
+            "name": "Dean Arp", 
+            "ballotpedia": "Dean_Arp", 
+            "knowwho_pid": 397679, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Capps Balkcom", 
+            "suffix": "", 
+            "ftm_eid": 55294798, 
+            "state_federal": 0, 
+            "people_id": 24196, 
+            "sponsor_type_id": 1, 
+            "first_name": "Jennifer", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-117", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 202758, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2215", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/lenderjen/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/jennifer-capps-balkcom-1477a36a/", 
+                        "facebook": "https://www.facebook.com/jennifer.balkcom.94", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/820", 
+                        "instagram": "", 
+                        "tiktok": "https://www.tiktok.com/@lenderjen", 
+                        "twitter": "https://www.twitter.com/JenBalkcom", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5956", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/202758", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jennifer_Capps_Balkcom", 
+                    "capitol_phone": "919-733-5956", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/820", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/820"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 5, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "l531uyb6", 
+            "opensecrets_id": "", 
+            "name": "Jennifer Balkcom", 
+            "ballotpedia": "Jennifer_Capps_Balkcom", 
+            "knowwho_pid": 801694, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Bell", 
+            "suffix": "IV", 
+            "ftm_eid": 10886006, 
+            "state_federal": 0, 
+            "people_id": 14604, 
+            "sponsor_type_id": 1, 
+            "first_name": "John", 
+            "middle_name": "Richard", 
+            "committee_id": 0, 
+            "district": "HD-010", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 136158, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2301", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/john-bell-528694135/", 
+                        "facebook": "https://www.facebook.com/john.bell.9674", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/661", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/JohnBellNC", 
+                        "youtube": "https://www.youtube.com/channel/UC6vnVjrxxdyxsr0RhZ4SSkA", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/john.bell.nchouse10", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3017", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/136158", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/John_Bell_%28North_Carolina%29", 
+                    "capitol_phone": "919-715-3017", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/661", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/661"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 6, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "300ejc67", 
+            "opensecrets_id": "", 
+            "name": "John Bell", 
+            "ballotpedia": "John_Bell_(North_Carolina)", 
+            "knowwho_pid": 397574, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Biggs", 
+            "suffix": "", 
+            "ftm_eid": 55294636, 
+            "state_federal": 0, 
+            "people_id": 24197, 
+            "sponsor_type_id": 1, 
+            "first_name": "Brian", 
+            "middle_name": "Oneal", 
+            "committee_id": 0, 
+            "district": "HD-070", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 202728, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 416A", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/brian-biggs-5062614a/", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/793", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5865", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/202728", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Brian_Biggs", 
+                    "capitol_phone": "919-733-5865", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/793", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/793"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 7, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "switefab", 
+            "opensecrets_id": "", 
+            "name": "Brian Biggs", 
+            "ballotpedia": "Brian_Biggs", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Blackwell", 
+            "suffix": "", 
+            "ftm_eid": 5950229, 
+            "state_federal": 0, 
+            "people_id": 2031, 
+            "sponsor_type_id": 1, 
+            "first_name": "Hugh", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-086", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 57758, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 541", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/hugh-blackwell-27956a86/", 
+                        "facebook": "https://www.facebook.com/hugh.blackwell.9", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/580", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/RepHughBlackwell/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5805", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/57758", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Hugh_Blackwell", 
+                    "capitol_phone": "919-733-5805", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/580", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/580"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 8, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "cb9gq1ji", 
+            "opensecrets_id": "", 
+            "name": "Hugh Blackwell", 
+            "ballotpedia": "Hugh_Blackwell", 
+            "knowwho_pid": 268469, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Branson", 
+            "suffix": "", 
+            "ftm_eid": 59506301, 
+            "state_federal": 0, 
+            "people_id": 25197, 
+            "sponsor_type_id": 1, 
+            "first_name": "Jerry", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-059", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213843, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 604", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/jerry-branson-19a17a85", 
+                        "facebook": "https://www.facebook.com/alan.branson.16", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/821", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=61559488653351", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5191", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213843", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Alan_Branson", 
+                    "capitol_phone": "919-733-5191", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/821", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/821"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 9, 
+            "party_id": "2", 
+            "nickname": "Alan", 
+            "person_hash": "930ne4ti", 
+            "opensecrets_id": "", 
+            "name": "Jerry Branson", 
+            "ballotpedia": "Alan_Branson", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Cairns", 
+            "suffix": "", 
+            "ftm_eid": 55294414, 
+            "state_federal": 0, 
+            "people_id": 24201, 
+            "sponsor_type_id": 1, 
+            "first_name": "Celeste", 
+            "middle_name": "Coppage", 
+            "committee_id": 0, 
+            "district": "HD-013", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 186252, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 530", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/cairnsceleste/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/celeste.c.cairns", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/797", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-6275", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/186252", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Celeste_Cairns", 
+                    "capitol_phone": "919-733-6275", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/797", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/797"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 10, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "nzjhmzxj", 
+            "opensecrets_id": "", 
+            "name": "Celeste Cairns", 
+            "ballotpedia": "Celeste_Cairns", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Campbell", 
+            "suffix": "", 
+            "ftm_eid": 59506430, 
+            "state_federal": 0, 
+            "people_id": 25845, 
+            "sponsor_type_id": 1, 
+            "first_name": "Grant", 
+            "middle_name": "L.", 
+            "committee_id": 0, 
+            "district": "HD-083", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213873, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 306C", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/grant-campbell-b4221b9b/", 
+                        "facebook": "https://www.facebook.com/grant.campbell.927", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/830", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-2009", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213873", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Grant_Campbell", 
+                    "capitol_phone": "919-715-2009", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/830", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/830"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 11, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "upu93c5s", 
+            "opensecrets_id": "", 
+            "name": "Grant Campbell", 
+            "ballotpedia": "Grant_Campbell", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Chesser", 
+            "suffix": "II", 
+            "ftm_eid": 55294443, 
+            "state_federal": 0, 
+            "people_id": 24203, 
+            "sponsor_type_id": 1, 
+            "first_name": "Gregory", 
+            "middle_name": "Allen", 
+            "committee_id": 0, 
+            "district": "HD-025", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 178273, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 418B", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/allen-chesser-3224b7a8/", 
+                        "facebook": "https://www.facebook.com/allen.chesser.5", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/799", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "https://www.youtube.com/channel/UCUgR_TEvTIWPZNqWS3M6VgQ", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5802", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/178273", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Allen_Chesser_II", 
+                    "capitol_phone": "919-733-5802", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/799", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/799"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 12, 
+            "party_id": "2", 
+            "nickname": "Allen", 
+            "person_hash": "rypsbjm4", 
+            "opensecrets_id": "", 
+            "name": "Allen Chesser", 
+            "ballotpedia": "Allen_Chesser_II", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Cotham", 
+            "suffix": "", 
+            "ftm_eid": 5924794, 
+            "state_federal": 0, 
+            "people_id": 2049, 
+            "sponsor_type_id": 1, 
+            "first_name": "Patricia", 
+            "middle_name": "Ann", 
+            "committee_id": 0, 
+            "district": "HD-105", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 69643, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 528", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/tricia.cotham_/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/tricia-cotham-20b96a19/", 
+                        "facebook": "https://www.facebook.com/tricia.cotham", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/817", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5886", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/69643", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Tricia_Cotham", 
+                    "capitol_phone": "919-733-5886", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/817", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/817"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 13, 
+            "party_id": "2", 
+            "nickname": "Tricia", 
+            "person_hash": "virx364r", 
+            "opensecrets_id": "", 
+            "name": "Patricia Cotham", 
+            "ballotpedia": "Tricia_Cotham", 
+            "knowwho_pid": 254773, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Cunningham", 
+            "suffix": "", 
+            "ftm_eid": 10886178, 
+            "state_federal": 0, 
+            "people_id": 14612, 
+            "sponsor_type_id": 1, 
+            "first_name": "Carla", 
+            "middle_name": "D.", 
+            "committee_id": 0, 
+            "district": "HD-106", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 136381, 
+            "party": "D", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 402", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/carla-cunningham-3b374a9/", 
+                        "facebook": "https://www.facebook.com/carla.cunningham.750", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/642", 
+                        "instagram": "https://www.instagram.com/carlacunninghamncrep/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5807", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/136381", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Carla_Cunningham", 
+                    "capitol_phone": "919-733-5807", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/642", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/642"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 14, 
+            "party_id": "1", 
+            "nickname": "", 
+            "person_hash": "z1gbrnys", 
+            "opensecrets_id": "", 
+            "name": "Carla Cunningham", 
+            "ballotpedia": "Carla_Cunningham", 
+            "knowwho_pid": 397715, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Echevarria", 
+            "suffix": "", 
+            "ftm_eid": 55626772, 
+            "state_federal": 0, 
+            "people_id": 25843, 
+            "sponsor_type_id": 1, 
+            "first_name": "Brian", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-082", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 202731, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 536", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/828", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5861", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/202731", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Brian_Echevarria", 
+                    "capitol_phone": "919-733-5861", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/828", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/828"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 15, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "xap4f49f", 
+            "opensecrets_id": "", 
+            "name": "Brian Echevarria", 
+            "ballotpedia": "Brian_Echevarria", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Eddins", 
+            "suffix": "", 
+            "ftm_eid": 59507380, 
+            "state_federal": 0, 
+            "people_id": 25222, 
+            "sponsor_type_id": 1, 
+            "first_name": "Blair", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-094", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213881, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2219", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/825", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=61566632742647", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5935", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213881", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Blair_Eddins", 
+                    "capitol_phone": "919-733-5935", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/825", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/825"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 16, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "a3dofguz", 
+            "opensecrets_id": "", 
+            "name": "Blair Eddins", 
+            "ballotpedia": "Blair_Eddins", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Ferguson", 
+            "suffix": "", 
+            "ftm_eid": 0, 
+            "state_federal": 0, 
+            "people_id": 26663, 
+            "sponsor_type_id": 1, 
+            "first_name": "Anna", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-119", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 0, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 633", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3005", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/0", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Anna_Ferguson_%28North_Carolina%29", 
+                    "capitol_phone": "919-715-3005", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/1003", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/1003"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 17, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "hs3t3v38", 
+            "opensecrets_id": "", 
+            "name": "Anna Ferguson", 
+            "ballotpedia": "Anna_Ferguson_(North_Carolina)", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Gable", 
+            "suffix": "", 
+            "ftm_eid": 59506334, 
+            "state_federal": 0, 
+            "people_id": 25852, 
+            "sponsor_type_id": 1, 
+            "first_name": "Wyatt", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-014", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213802, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 609", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/wyatt.gable.7/", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/837", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-6707", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213802", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Wyatt_Gable", 
+                    "capitol_phone": "919-715-6707", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/837", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/837"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 18, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "qvtcy135", 
+            "opensecrets_id": "", 
+            "name": "Wyatt Gable", 
+            "ballotpedia": "Wyatt_Gable", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Gillespie", 
+            "suffix": "", 
+            "ftm_eid": 48626979, 
+            "state_federal": 0, 
+            "people_id": 22602, 
+            "sponsor_type_id": 1, 
+            "first_name": "Karl", 
+            "middle_name": "Ellis", 
+            "committee_id": 0, 
+            "district": "HD-120", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 188979, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 1227", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/karl.e.gillespie/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/karl-gillespie-69772249/", 
+                        "facebook": "https://www.facebook.com/karl.gillespie.9", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/771", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/repkarlgillespie", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5859", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/188979", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Karl_Gillespie", 
+                    "capitol_phone": "919-733-5859", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/771", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/771"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 19, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "zafiv0xo", 
+            "opensecrets_id": "", 
+            "name": "Karl Gillespie", 
+            "ballotpedia": "Karl_Gillespie", 
+            "knowwho_pid": 726521, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Goodwin", 
+            "suffix": "", 
+            "ftm_eid": 10886634, 
+            "state_federal": 0, 
+            "people_id": 20512, 
+            "sponsor_type_id": 1, 
+            "first_name": "Edward", 
+            "middle_name": "Charles", 
+            "committee_id": 0, 
+            "district": "HD-001", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 114665, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2217", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/edgoodwinnc", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/744", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-0010", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/114665", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Ed_Goodwin", 
+                    "capitol_phone": "919-733-0010", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/744", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/744"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 20, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "yjb90w1y", 
+            "opensecrets_id": "", 
+            "name": "Edward Goodwin", 
+            "ballotpedia": "Ed_Goodwin", 
+            "knowwho_pid": 415110, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Greene", 
+            "suffix": "", 
+            "ftm_eid": 48626932, 
+            "state_federal": 0, 
+            "people_id": 22603, 
+            "sponsor_type_id": 1, 
+            "first_name": "Edwin", 
+            "middle_name": "Dudley", 
+            "committee_id": 0, 
+            "district": "HD-085", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 188931, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 306B1", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/dudley-greene-847384a2/", 
+                        "facebook": "https://www.facebook.com/cuzindud", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/777", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/Representative-Dudley-Greene-105493427660193/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5862", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/188931", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Dudley_Greene", 
+                    "capitol_phone": "919-733-5862", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/777", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/777"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 21, 
+            "party_id": "2", 
+            "nickname": "Dudley", 
+            "person_hash": "r371tlfy", 
+            "opensecrets_id": "", 
+            "name": "Dudley Greene", 
+            "ballotpedia": "Dudley_Greene", 
+            "knowwho_pid": 726484, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Hall", 
+            "suffix": "", 
+            "ftm_eid": 38445320, 
+            "state_federal": 0, 
+            "people_id": 17876, 
+            "sponsor_type_id": 1, 
+            "first_name": "Kyle", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-091", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 166632, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 305", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/kyle-hall-703aab60/", 
+                        "facebook": "https://www.facebook.com/kyleh08", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/704", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5609", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/166632", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Kyle_Hall_%28North_Carolina%29", 
+                    "capitol_phone": "919-733-5609", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/704", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/704"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 22, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "mt802563", 
+            "opensecrets_id": "", 
+            "name": "Kyle Hall", 
+            "ballotpedia": "Kyle_Hall_(North_Carolina)", 
+            "knowwho_pid": 523165, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Humphrey", 
+            "suffix": "", 
+            "ftm_eid": 6685707, 
+            "state_federal": 0, 
+            "people_id": 20516, 
+            "sponsor_type_id": 1, 
+            "first_name": "Thomas", 
+            "middle_name": "Christopher", 
+            "committee_id": 0, 
+            "district": "HD-012", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 92439, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 638", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/tchumphrey", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/chrishumphrey1/", 
+                        "facebook": "https://www.facebook.com/chris.humphrey.nc", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/747", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5995", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/92439", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Chris_Humphrey", 
+                    "capitol_phone": "919-733-5995", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/747", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/747"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 23, 
+            "party_id": "2", 
+            "nickname": "Chris", 
+            "person_hash": "t0g0c8bq", 
+            "opensecrets_id": "", 
+            "name": "Chris Humphrey", 
+            "ballotpedia": "Chris_Humphrey", 
+            "knowwho_pid": 656150, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Huneycutt", 
+            "suffix": "", 
+            "ftm_eid": 59506781, 
+            "state_federal": 0, 
+            "people_id": 25848, 
+            "sponsor_type_id": 1, 
+            "first_name": "Cody", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-067", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213856, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 537", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/cody-huneycutt-538495a9/", 
+                        "facebook": "https://www.facebook.com/profile.php?id=61552152621533", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/833", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5908", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213856", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Cody_Huneycutt", 
+                    "capitol_phone": "919-733-5908", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/833", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/833"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 24, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "qirxfv85", 
+            "opensecrets_id": "", 
+            "name": "Cody Huneycutt", 
+            "ballotpedia": "Cody_Huneycutt", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Jackson", 
+            "suffix": "", 
+            "ftm_eid": 55294671, 
+            "state_federal": 0, 
+            "people_id": 24207, 
+            "sponsor_type_id": 1, 
+            "first_name": "Maze", 
+            "middle_name": "O'Neal", 
+            "committee_id": 0, 
+            "district": "HD-078", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 202734, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 406", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/804", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-4946", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/202734", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Neal_Jackson", 
+                    "capitol_phone": "919-715-4946", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/804", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/804"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 25, 
+            "party_id": "2", 
+            "nickname": "Neal", 
+            "person_hash": "g6e5mgtd", 
+            "opensecrets_id": "", 
+            "name": "Neal Jackson", 
+            "ballotpedia": "Neal_Jackson", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Johnson", 
+            "suffix": "", 
+            "ftm_eid": 44993797, 
+            "state_federal": 0, 
+            "people_id": 21377, 
+            "sponsor_type_id": 1, 
+            "first_name": "Jake", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-113", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 186855, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 529", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/jake-johnson-19ba6483/", 
+                        "facebook": "https://www.facebook.com/people/Jake-Johnson/100007581159103", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/762", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/RepJakeJohnson", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/jakefornc", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-4466", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/186855", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jake_Johnson_%28North_Carolina%29", 
+                    "capitol_phone": "919-715-4466", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/762", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/762"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 26, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "yl2z04k3", 
+            "opensecrets_id": "", 
+            "name": "Jake Johnson", 
+            "ballotpedia": "Jake_Johnson_(North_Carolina)", 
+            "knowwho_pid": 714021, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Jones", 
+            "suffix": "", 
+            "ftm_eid": 12543361, 
+            "state_federal": 0, 
+            "people_id": 18460, 
+            "sponsor_type_id": 1, 
+            "first_name": "Brenden", 
+            "middle_name": "Harding", 
+            "committee_id": 0, 
+            "district": "HD-046", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 41385, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 301F", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/brenden-jones-9a493441/", 
+                        "facebook": "https://www.facebook.com/brenden.jones.50", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/723", 
+                        "instagram": "https://www.instagram.com/brendenjonesnc/", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/BrendenJonesNC", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5821", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/41385", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Brenden_Jones", 
+                    "capitol_phone": "919-733-5821", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/723", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/723"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 27, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "paaaxykq", 
+            "opensecrets_id": "", 
+            "name": "Brenden Jones", 
+            "ballotpedia": "Brenden_Jones", 
+            "knowwho_pid": 488122, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Lambeth", 
+            "suffix": "", 
+            "ftm_eid": 10886127, 
+            "state_federal": 0, 
+            "people_id": 14624, 
+            "sponsor_type_id": 1, 
+            "first_name": "Donny", 
+            "middle_name": "Carr", 
+            "committee_id": 0, 
+            "district": "HD-075", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 136318, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 303", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/DonnyLambeth", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/donny-lambeth-37ab6015/", 
+                        "facebook": "https://www.facebook.com/donny.lambeth", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/646", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5747", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/136318", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Donny_C._Lambeth", 
+                    "capitol_phone": "919-733-5747", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/646", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/646"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 28, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "a7dy32ak", 
+            "opensecrets_id": "", 
+            "name": "Donny Lambeth", 
+            "ballotpedia": "Donny_C._Lambeth", 
+            "knowwho_pid": 397686, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Loftis", 
+            "suffix": "", 
+            "ftm_eid": 6660996, 
+            "state_federal": 0, 
+            "people_id": 22965, 
+            "sponsor_type_id": 1, 
+            "first_name": "Donnie", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-109", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 41028, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 608", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/DonnieLoftis2", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/donnie-l-b15b443a/", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100013423590594", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/788", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/Hon-Donnie-Loftis-107480325079198/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5809", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/41028", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Donnie_Loftis", 
+                    "capitol_phone": "919-733-5809", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/788", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/788"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 29, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "s75hfd52", 
+            "opensecrets_id": "", 
+            "name": "Donnie Loftis", 
+            "ballotpedia": "Donnie_Loftis", 
+            "knowwho_pid": 401031, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Lowery", 
+            "suffix": "", 
+            "ftm_eid": 0, 
+            "state_federal": 0, 
+            "people_id": 26503, 
+            "sponsor_type_id": 1, 
+            "first_name": "John", 
+            "middle_name": "L.", 
+            "committee_id": 0, 
+            "district": "HD-047", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 0, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, 306B2", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-0875", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/0", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/", 
+                    "capitol_phone": "919-715-0875", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/1001", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/1001"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 30, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "nvcmaiz3", 
+            "opensecrets_id": "", 
+            "name": "John Lowery", 
+            "ballotpedia": "", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "McNeely", 
+            "suffix": "", 
+            "ftm_eid": 6335014, 
+            "state_federal": 0, 
+            "people_id": 21375, 
+            "sponsor_type_id": 1, 
+            "first_name": "Jeffrey", 
+            "middle_name": "C.", 
+            "committee_id": 0, 
+            "district": "HD-084", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 186787, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 606", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/repmcneelyfits/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/jeff-mcneely-60b78874/", 
+                        "facebook": "https://www.facebook.com/jeffrey.mcneely.75", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/761", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5661", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/186787", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jeffrey_McNeely", 
+                    "capitol_phone": "919-733-5661", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/761", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/761"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 31, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "eyyja6am", 
+            "opensecrets_id": "", 
+            "name": "Jeffrey McNeely", 
+            "ballotpedia": "Jeffrey_McNeely", 
+            "knowwho_pid": 711554, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Miller", 
+            "suffix": "", 
+            "ftm_eid": 48626827, 
+            "state_federal": 0, 
+            "people_id": 22612, 
+            "sponsor_type_id": 1, 
+            "first_name": "Charles", 
+            "middle_name": "William", 
+            "committee_id": 0, 
+            "district": "HD-019", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 188953, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 417B", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/charles-miller-935913150/", 
+                        "facebook": "https://www.facebook.com/CharlieMiller1966", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/778", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/CharlieMillerNC", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5830", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/188953", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Charles_Miller_%28North_Carolina%29", 
+                    "capitol_phone": "919-733-5830", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/778", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/778"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 32, 
+            "party_id": "2", 
+            "nickname": "Charlie", 
+            "person_hash": "hcdg5t37", 
+            "opensecrets_id": "", 
+            "name": "Charles Miller", 
+            "ballotpedia": "Charles_Miller_(North_Carolina)", 
+            "knowwho_pid": 726287, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Moss", 
+            "suffix": "", 
+            "ftm_eid": 48626905, 
+            "state_federal": 0, 
+            "people_id": 22613, 
+            "sponsor_type_id": 1, 
+            "first_name": "Ben", 
+            "middle_name": "Thomas", 
+            "committee_id": 0, 
+            "district": "HD-052", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 133884, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 306A3", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/ben.t.moss.5", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/784", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100064308150491", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5903", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/133884", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Ben_Moss", 
+                    "capitol_phone": "919-733-5903", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/784", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/784"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 33, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "mdf2pw1h", 
+            "opensecrets_id": "", 
+            "name": "Ben Moss", 
+            "ballotpedia": "Ben_Moss", 
+            "knowwho_pid": 726455, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Pare", 
+            "suffix": "", 
+            "ftm_eid": 48626862, 
+            "state_federal": 0, 
+            "people_id": 22614, 
+            "sponsor_type_id": 1, 
+            "first_name": "Erin", 
+            "middle_name": "Pauling", 
+            "committee_id": 0, 
+            "district": "HD-037", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 189275, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 637", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "https://reperinpare.com/", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/erin-pare-4b4955241/", 
+                        "facebook": "https://www.facebook.com/erin.pare", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/770", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "https://www.youtube.com/@theofficeofrep.erinpare5094", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-2962", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/189275", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Erin_Par%C3%A9", 
+                    "capitol_phone": "919-733-2962", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/770", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/770"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 34, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "a11m6o4d", 
+            "opensecrets_id": "", 
+            "name": "Erin Pare", 
+            "ballotpedia": "Erin_Par\u00e9", 
+            "knowwho_pid": 726397, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Penny", 
+            "suffix": "Jr.", 
+            "ftm_eid": 52364690, 
+            "state_federal": 0, 
+            "people_id": 22615, 
+            "sponsor_type_id": 1, 
+            "first_name": "Howard", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-053", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 195338, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 418C", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/howard.penny.79", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/768", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/HowardPennyNC", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3015", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/195338", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Howard_Penny_Jr.", 
+                    "capitol_phone": "919-715-3015", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/768", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/768"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 35, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "nyc5gm25", 
+            "opensecrets_id": "", 
+            "name": "Howard Penny", 
+            "ballotpedia": "Howard_Penny_Jr.", 
+            "knowwho_pid": 750316, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Pless", 
+            "suffix": "", 
+            "ftm_eid": 48626976, 
+            "state_federal": 0, 
+            "people_id": 22617, 
+            "sponsor_type_id": 1, 
+            "first_name": "Steven", 
+            "middle_name": "Mark", 
+            "committee_id": 0, 
+            "district": "HD-118", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 189156, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 306A1", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/markpless/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/mark-pless-b8973a90/", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/773", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100057911895455", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5732", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/189156", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Mark_Pless", 
+                    "capitol_phone": "919-733-5732", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/773", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/773"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 36, 
+            "party_id": "2", 
+            "nickname": "Mark", 
+            "person_hash": "gx9fifpu", 
+            "opensecrets_id": "", 
+            "name": "Mark Pless", 
+            "ballotpedia": "Mark_Pless", 
+            "knowwho_pid": 726519, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Potts", 
+            "suffix": "", 
+            "ftm_eid": 13012743, 
+            "state_federal": 0, 
+            "people_id": 18461, 
+            "sponsor_type_id": 1, 
+            "first_name": "Larry", 
+            "middle_name": "Wayne", 
+            "committee_id": 0, 
+            "district": "HD-081", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 41531, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 307B1", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/larry.potts.737", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/724", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/LarryPottsNC", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-0873", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/41531", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Larry_Potts", 
+                    "capitol_phone": "919-715-0873", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/724", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/724"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 37, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "pyjhtdkf", 
+            "opensecrets_id": "", 
+            "name": "Larry Potts", 
+            "ballotpedia": "Larry_Potts", 
+            "knowwho_pid": 562391, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Pyrtle", 
+            "suffix": "", 
+            "ftm_eid": 0, 
+            "state_federal": 0, 
+            "people_id": 22946, 
+            "sponsor_type_id": 1, 
+            "first_name": "Reece", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-065", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 198983, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 417A", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5779", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/198983", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/A._Reece_Pyrtle%2C_Jr.", 
+                    "capitol_phone": "919-733-5779", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/787", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/787"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 38, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "sezx6vnk", 
+            "opensecrets_id": "", 
+            "name": "Reece Pyrtle", 
+            "ballotpedia": "A._Reece_Pyrtle,_Jr.", 
+            "knowwho_pid": 784387, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Reeder", 
+            "suffix": "", 
+            "ftm_eid": 55294400, 
+            "state_federal": 0, 
+            "people_id": 24215, 
+            "sponsor_type_id": 1, 
+            "first_name": "Timothy", 
+            "middle_name": "John", 
+            "committee_id": 0, 
+            "district": "HD-009", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 202671, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 416B", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/reeder08", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/tim-reeder-82292b89/", 
+                        "facebook": "https://www.facebook.com/timothy.reeder.7", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/811", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5757", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/202671", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Timothy_Reeder", 
+                    "capitol_phone": "919-733-5757", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/811", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/811"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 39, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "42cmyzhi", 
+            "opensecrets_id": "", 
+            "name": "Timothy Reeder", 
+            "ballotpedia": "Timothy_Reeder", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Rhyne", 
+            "suffix": "", 
+            "ftm_eid": 0, 
+            "state_federal": 0, 
+            "people_id": 25214, 
+            "sponsor_type_id": 1, 
+            "first_name": "Heather", 
+            "middle_name": "H.", 
+            "committee_id": 0, 
+            "district": "HD-097", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 0, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 531", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/hhrhyne", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/heather.h.rhyne", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/823", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5782", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/0", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Heather_Rhyne", 
+                    "capitol_phone": "919-733-5782", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/823", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/823"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 40, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "m3siztjf", 
+            "opensecrets_id": "", 
+            "name": "Heather Rhyne", 
+            "ballotpedia": "Heather_Rhyne", 
+            "knowwho_pid": 885954, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Ross", 
+            "suffix": "", 
+            "ftm_eid": 5887240, 
+            "state_federal": 0, 
+            "people_id": 14634, 
+            "sponsor_type_id": 1, 
+            "first_name": "Stephen", 
+            "middle_name": "Miles", 
+            "committee_id": 0, 
+            "district": "HD-063", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 132378, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 1229", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/steve.ross.79230/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/stephen-ross-4481953b/", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/812", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5820", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/132378", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Stephen_M._Ross", 
+                    "capitol_phone": "919-733-5820", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/812", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/812"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 41, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "lv9zbjc5", 
+            "opensecrets_id": "", 
+            "name": "Stephen Ross", 
+            "ballotpedia": "Stephen_M._Ross", 
+            "knowwho_pid": 400958, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Schietzelt", 
+            "suffix": "", 
+            "ftm_eid": 59506548, 
+            "state_federal": 0, 
+            "people_id": 25855, 
+            "sponsor_type_id": 1, 
+            "first_name": "Mike", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-035", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213820, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 533", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/mike.schietzelt", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/840", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3010", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213820", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Mike_Schietzelt", 
+                    "capitol_phone": "919-715-3010", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/840", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/840"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 42, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "pmke2i9g", 
+            "opensecrets_id": "", 
+            "name": "Mike Schietzelt", 
+            "ballotpedia": "Mike_Schietzelt", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Scott", 
+            "suffix": "", 
+            "ftm_eid": 59507234, 
+            "state_federal": 0, 
+            "people_id": 25856, 
+            "sponsor_type_id": 1, 
+            "first_name": "Paul", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-111", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 213902, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 610", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/841", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-4838", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/213902", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Paul_Scott_%28North_Carolina%29", 
+                    "capitol_phone": "919-733-4838", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/841", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/841"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 43, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "wltl7ou6", 
+            "opensecrets_id": "", 
+            "name": "Paul Scott", 
+            "ballotpedia": "Paul_Scott_(North_Carolina)", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Shepard", 
+            "suffix": "", 
+            "ftm_eid": 6058799, 
+            "state_federal": 0, 
+            "people_id": 11863, 
+            "sponsor_type_id": 1, 
+            "first_name": "Phillip", 
+            "middle_name": "R.", 
+            "committee_id": 0, 
+            "district": "HD-015", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 117801, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 534", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/phillip-shepard-b7697466/", 
+                        "facebook": "https://www.facebook.com/phillip.shepard.90", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/628", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/PhillipShepardNCHouse15/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "910-389-6392", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/117801", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Phillip_Shepard", 
+                    "capitol_phone": "919-715-9644", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/628", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/628"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 44, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "fjlft44o", 
+            "opensecrets_id": "", 
+            "name": "Phillip Shepard", 
+            "ballotpedia": "Phillip_Shepard", 
+            "knowwho_pid": 292230, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Strickland", 
+            "suffix": "", 
+            "ftm_eid": 5865414, 
+            "state_federal": 0, 
+            "people_id": 18464, 
+            "sponsor_type_id": 1, 
+            "first_name": "Larry", 
+            "middle_name": "Craig", 
+            "committee_id": 0, 
+            "district": "HD-028", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 166611, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 304", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100010176455429", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/727", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5849", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/166611", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Larry_Strickland", 
+                    "capitol_phone": "919-733-5849", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/727", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/727"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 45, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "xxzb5nlb", 
+            "opensecrets_id": "", 
+            "name": "Larry Strickland", 
+            "ballotpedia": "Larry_Strickland", 
+            "knowwho_pid": 562255, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Torbett", 
+            "suffix": "", 
+            "ftm_eid": 13004125, 
+            "state_federal": 0, 
+            "people_id": 11866, 
+            "sponsor_type_id": 1, 
+            "first_name": "John", 
+            "middle_name": "A.", 
+            "committee_id": 0, 
+            "district": "HD-108", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 92622, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 538", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/johntorbett/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/hon-john-a-torbett-501133b/", 
+                        "facebook": "https://www.facebook.com/rep.john.a.torbett", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/606", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/RepTorbett/", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5868", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/92622", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/John_Torbett", 
+                    "capitol_phone": "919-733-5868", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/606", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/606"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 46, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "kcspd6ff", 
+            "opensecrets_id": "", 
+            "name": "John Torbett", 
+            "ballotpedia": "John_Torbett", 
+            "knowwho_pid": 290249, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Tyson", 
+            "suffix": "", 
+            "ftm_eid": 6054984, 
+            "state_federal": 0, 
+            "people_id": 22607, 
+            "sponsor_type_id": 1, 
+            "first_name": "John", 
+            "middle_name": "Steven", 
+            "committee_id": 0, 
+            "district": "HD-003", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 92509, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 634", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/SteveTy19288217", 
+                        "youtube": "https://www.youtube.com/c/SteveJanaJTyson", 
+                        "linkedin": "https://www.linkedin.com/in/steve-tyson-8419b011/", 
+                        "facebook": "https://www.facebook.com/steve.tyson.14", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/774", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5853", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/92509", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Steve_Tyson", 
+                    "capitol_phone": "919-733-5853", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/774", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/774"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 47, 
+            "party_id": "2", 
+            "nickname": "Steve", 
+            "person_hash": "xrgxjmow", 
+            "opensecrets_id": "", 
+            "name": "Steve Tyson", 
+            "ballotpedia": "Steve_Tyson", 
+            "knowwho_pid": 726206, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Ward", 
+            "suffix": "", 
+            "ftm_eid": 55294382, 
+            "state_federal": 0, 
+            "people_id": 24219, 
+            "sponsor_type_id": 1, 
+            "first_name": "William", 
+            "middle_name": "Thomas", 
+            "committee_id": 0, 
+            "district": "HD-005", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 202664, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 306A2", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/816", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "252-339-0130", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/202664", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Bill_Ward_%28North_Carolina%29", 
+                    "capitol_phone": "919-733-5780", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/816", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/816"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 48, 
+            "party_id": "2", 
+            "nickname": "Bill", 
+            "person_hash": "dusez2gc", 
+            "opensecrets_id": "", 
+            "name": "Bill Ward", 
+            "ballotpedia": "Bill_Ward_(North_Carolina)", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Warren", 
+            "suffix": "", 
+            "ftm_eid": 6686889, 
+            "state_federal": 0, 
+            "people_id": 11850, 
+            "sponsor_type_id": 1, 
+            "first_name": "Harry", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-076", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 117839, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 611", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/harry-warren-46942916/", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/630", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5784", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/117839", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Harry_Warren", 
+                    "capitol_phone": "919-733-5784", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/630", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/630"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 49, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "efpdf3bm", 
+            "opensecrets_id": "", 
+            "name": "Harry Warren", 
+            "ballotpedia": "Harry_Warren", 
+            "knowwho_pid": 292271, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Wheatley", 
+            "suffix": "", 
+            "ftm_eid": 6859902, 
+            "state_federal": 0, 
+            "people_id": 22608, 
+            "sponsor_type_id": 1, 
+            "first_name": "Diane", 
+            "middle_name": "D.", 
+            "committee_id": 0, 
+            "district": "HD-043", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 92358, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 301N", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/diane.wheatley1", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/785", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5959", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/92358", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Diane_Wheatley", 
+                    "capitol_phone": "919-733-5959", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/785", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/785"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 50, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "vk1zum9a", 
+            "opensecrets_id": "", 
+            "name": "Diane Wheatley", 
+            "ballotpedia": "Diane_Wheatley", 
+            "knowwho_pid": 400931, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "White", 
+            "suffix": "", 
+            "ftm_eid": 5918716, 
+            "state_federal": 0, 
+            "people_id": 18495, 
+            "sponsor_type_id": 1, 
+            "first_name": "Donna", 
+            "middle_name": "McDowell", 
+            "committee_id": 0, 
+            "district": "HD-026", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 166609, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 307B", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/donna-mcdowell-white-4794b437/", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/728", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-889-1239", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/166609", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Donna_McDowell_White", 
+                    "capitol_phone": "919-733-5605", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/728", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/728"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 51, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "2wnb47hu", 
+            "opensecrets_id": "", 
+            "name": "Donna White", 
+            "ballotpedia": "Donna_McDowell_White", 
+            "knowwho_pid": 562252, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Willingham", 
+            "suffix": "", 
+            "ftm_eid": 6136384, 
+            "state_federal": 0, 
+            "people_id": 17158, 
+            "sponsor_type_id": 1, 
+            "first_name": "Shelly", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-023", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 41293, 
+            "party": "D", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 513", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/shelly-willingham-92930662/", 
+                        "facebook": "https://www.facebook.com/shelly.willingham.37", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/700", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "252-442-8659", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/41293", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Shelly_Willingham", 
+                    "capitol_phone": "919-715-3024", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/700", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/700"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 52, 
+            "party_id": "1", 
+            "nickname": "", 
+            "person_hash": "o9o6fhlf", 
+            "opensecrets_id": "", 
+            "name": "Shelly Willingham", 
+            "ballotpedia": "Shelly_Willingham", 
+            "knowwho_pid": 210247, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Winslow", 
+            "suffix": "", 
+            "ftm_eid": 45310496, 
+            "state_federal": 0, 
+            "people_id": 22610, 
+            "sponsor_type_id": 1, 
+            "first_name": "Matthew", 
+            "middle_name": "Dale", 
+            "committee_id": 0, 
+            "district": "HD-007", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 189125, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 1326", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/winslow.matthew/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/matthew-winslow-3550aa15/", 
+                        "facebook": "https://www.facebook.com/matthew.winslow.794", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/776", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/RepWinslow", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-3032", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/189125", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Matthew_Winslow", 
+                    "capitol_phone": "919-715-3032", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/776", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/776"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 53, 
+            "party_id": "2", 
+            "nickname": "Matt", 
+            "person_hash": "a3t8q56g", 
+            "opensecrets_id": "", 
+            "name": "Matthew Winslow", 
+            "ballotpedia": "Matthew_Winslow", 
+            "knowwho_pid": 726227, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Willis", 
+            "suffix": "", 
+            "ftm_eid": 48626907, 
+            "state_federal": 0, 
+            "people_id": 22609, 
+            "sponsor_type_id": 1, 
+            "first_name": "David", 
+            "middle_name": "Allen", 
+            "committee_id": 0, 
+            "district": "HD-068", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 189259, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 420", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/DavidWillisNC", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/david-willis-06b932129/", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/779", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-2406", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/189259", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/David_Willis", 
+                    "capitol_phone": "919-733-2406", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/779", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/779"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 54, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "dmgm4qch", 
+            "opensecrets_id": "", 
+            "name": "David Willis", 
+            "ballotpedia": "David_Willis", 
+            "knowwho_pid": 726458, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Zenger", 
+            "suffix": "", 
+            "ftm_eid": 48626915, 
+            "state_federal": 0, 
+            "people_id": 22611, 
+            "sponsor_type_id": 1, 
+            "first_name": "Jeffrey", 
+            "middle_name": "Alan", 
+            "committee_id": 0, 
+            "district": "HD-074", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 189097, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 532", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "https://www.instagram.com/zengerj/", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "https://www.linkedin.com/in/jefflishaconstruction/", 
+                        "facebook": "https://www.facebook.com/jeff.zenger.94", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/775", 
+                        "instagram": "https://www.instagram.com/jeffzengernc/", 
+                        "tiktok": "", 
+                        "twitter": "https://www.twitter.com/RealJeffZENGER", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100063587307219", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-733-5787", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/189097", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Jeff_Zenger", 
+                    "capitol_phone": "919-733-5787", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/775", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/775"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 55, 
+            "party_id": "2", 
+            "nickname": "Jeff", 
+            "person_hash": "bp8lelea", 
+            "opensecrets_id": "", 
+            "name": "Jeff Zenger", 
+            "ballotpedia": "Jeff_Zenger", 
+            "knowwho_pid": 726472, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Setzer", 
+            "suffix": "", 
+            "ftm_eid": 6342660, 
+            "state_federal": 0, 
+            "people_id": 2122, 
+            "sponsor_type_id": 1, 
+            "first_name": "Mitchell", 
+            "middle_name": "Smith", 
+            "committee_id": 0, 
+            "district": "HD-089", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 21013, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "16 West Jones Street, Rm. 2204", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27601", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/mitchell.setzer.5", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/149", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "828-241-3570", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/21013", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Mitchell_Setzer", 
+                    "capitol_phone": "919-733-4948", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/149", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/149"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 56, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "mb3md0l3", 
+            "opensecrets_id": "", 
+            "name": "Mitchell Setzer", 
+            "ballotpedia": "Mitchell_Setzer", 
+            "knowwho_pid": 196615, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Howard", 
+            "suffix": "", 
+            "ftm_eid": 5849427, 
+            "state_federal": 0, 
+            "people_id": 2083, 
+            "sponsor_type_id": 1, 
+            "first_name": "Julia", 
+            "middle_name": "C.", 
+            "committee_id": 0, 
+            "district": "HD-077", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 5988, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 302", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "https://www.howardrealty.com/julia_c.htm", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100009000409746", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/53", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "336-751-3538", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/5988", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Julia_Howard", 
+                    "capitol_phone": "919-733-5904", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/53", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/53"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 57, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "he0olknl", 
+            "opensecrets_id": "", 
+            "name": "Julia Howard", 
+            "ballotpedia": "Julia_Howard", 
+            "knowwho_pid": 196654, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Kiger", 
+            "suffix": "", 
+            "ftm_eid": 0, 
+            "state_federal": 0, 
+            "people_id": 26677, 
+            "sponsor_type_id": 1, 
+            "first_name": "Dan", 
+            "middle_name": "", 
+            "committee_id": 0, 
+            "district": "HD-090", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 232003, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 418A", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-715-1883", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/232003", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Dan_Kiger", 
+                    "capitol_phone": "919-715-1883", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/1004", 
+                    "email": "Dan.Kiger@ncleg.gov", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/1004"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 58, 
+            "party_id": "2", 
+            "nickname": "", 
+            "person_hash": "gjrgcrna", 
+            "opensecrets_id": "", 
+            "name": "Dan Kiger", 
+            "ballotpedia": "Dan_Kiger", 
+            "knowwho_pid": 0, 
+            "state_id": 33
+        }, 
+        {
+            "last_name": "Iler", 
+            "suffix": "Jr.", 
+            "ftm_eid": 6052371, 
+            "state_federal": 0, 
+            "people_id": 2086, 
+            "sponsor_type_id": 1, 
+            "first_name": "Francis", 
+            "middle_name": "Robertson", 
+            "committee_id": 0, 
+            "district": "HD-017", 
+            "committee_sponsor": 0, 
+            "role_id": 1, 
+            "role": "Rep", 
+            "votesmart_id": 112440, 
+            "party": "R", 
+            "bio": {
+                "capitol_address": {
+                    "address1": "300 N. Salisbury Street, Rm. 639", 
+                    "address2": "", 
+                    "state": "NC", 
+                    "zip": "27603", 
+                    "city": "Raleigh"
+                }, 
+                "links": {
+                    "personal": {
+                        "website": "", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "https://www.facebook.com/profile.php?id=100071827993828", 
+                        "bluesky": ""
+                    }, 
+                    "official": {
+                        "website": "https://www.ncleg.gov/Members/Biography/H/598", 
+                        "instagram": "", 
+                        "tiktok": "", 
+                        "twitter": "", 
+                        "youtube": "", 
+                        "linkedin": "", 
+                        "facebook": "", 
+                        "bluesky": ""
+                    }
+                }, 
+                "social": {
+                    "district_phone": "919-301-1450", 
+                    "votesmart": "https://justfacts.votesmart.org/candidate/biography/112440", 
+                    "image": "", 
+                    "ballotpedia": "https://ballotpedia.org/Frank_Iler", 
+                    "capitol_phone": "919-301-1450", 
+                    "webmail": "https://www.ncleg.gov/Members/ContactMember/H/598", 
+                    "email": "[email protected]", 
+                    "biography": "https://www.ncleg.gov/Members/Biography/H/598"
+                }
+            }, 
+            "bioguide_id": "", 
+            "sponsor_order": 59, 
+            "party_id": "2", 
+            "nickname": "Frank", 
+            "person_hash": "uhddo48e", 
+            "opensecrets_id": "", 
+            "name": "Francis Iler", 
+            "ballotpedia": "Frank_Iler", 
+            "knowwho_pid": 279141, 
+            "state_id": 33
+        }
+    ], 
+    "bill_type_id": "1", 
+    "amendments": [], 
+    "body_id": 75, 
+    "referrals": [
+        {
+            "date": "2026-10-07", 
+            "chamber": "S", 
+            "chamber_id": 76, 
+            "committee_id": 698, 
+            "name": "Rules and Operations of the Senate"
+        }
+    ], 
+    "url": "https://legiscan.com/NC/bill/H3/2026", 
+    "session_id": 2274, 
+    "current_body_id": 75, 
+    "supplements": [
+        {
+            "alt_supplement": 0, 
+            "supplement_size": 310409, 
+            "supplement_hash": "621e7928b632ae164f7c106ec1afe5fb", 
+            "alt_mime": "", 
+            "description": "Summary H3-SMSV-3(e1)-v-2", 
+            "title": "Analysis", 
+            "url": "https://legiscan.com/NC/supplement/H3/id/730858", 
+            "alt_supplement_size": 0, 
+            "alt_state_link": "", 
+            "type_id": 2, 
+            "mime_id": 2, 
+            "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025E1/H3-SMSV-3(e1)-v-2", 
+            "alt_supplement_hash": "", 
+            "mime": "application/pdf", 
+            "supplement_id": 730858, 
+            "date": "2026-10-07", 
+            "alt_mime_id": 0, 
+            "type": "Analysis"
+        }, 
+        {
+            "alt_supplement": 0, 
+            "supplement_size": 310793, 
+            "supplement_hash": "60a031c23df71f2e8b1ae1f8db261760", 
+            "alt_mime": "", 
+            "description": "Summary H3-SMSV-4(filed)-v-2", 
+            "title": "Analysis", 
+            "url": "https://legiscan.com/NC/supplement/H3/id/730859", 
+            "alt_supplement_size": 0, 
+            "alt_state_link": "", 
+            "type_id": 2, 
+            "mime_id": 2, 
+            "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025E1/H3-SMSV-4(filed)-v-2", 
+            "alt_supplement_hash": "", 
+            "mime": "application/pdf", 
+            "supplement_id": 730859, 
+            "date": "2026-10-07", 
+            "alt_mime_id": 0, 
+            "type": "Analysis"
+        }
+    ], 
+    "state_id": 33, 
+    "decoded_text": "Binary document (application/pdf). Content saved.", 
+    "bill_id": 2160145, 
+    "history": [
+        {
+            "date": "2026-10-07", 
+            "action": "Filed", 
+            "importance": 1, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 1st Reading", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Added to Calendar", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 2nd Reading", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 3rd Reading", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Special Message Sent To Senate", 
+            "importance": 0, 
+            "chamber_id": 75, 
+            "chamber": "H"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Special Message Received From House", 
+            "importance": 1, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 1st Reading", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Ref To Com On Rules and Operations of the Senate", 
+            "importance": 1, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Withdrawn From Com", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Placed on Today's Calendar", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Amendment Ruled Out-of-Order A1", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 2nd Reading", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Passed 3rd Reading", 
+            "importance": 0, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Ordered Enrolled", 
+            "importance": 1, 
+            "chamber_id": 76, 
+            "chamber": "S"
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Ratified", 
+            "importance": 0, 
+            "chamber_id": 0, 
+            "chamber": ""
+        }, 
+        {
+            "date": "2026-10-07", 
+            "action": "Pres. To Gov. 10/7/2026", 
+            "importance": 0, 
+            "chamber_id": 0, 
+            "chamber": ""
+        }, 
+        {
+            "date": "2026-10-09", 
+            "action": "Signed by Gov. 10/9/2026", 
+            "importance": 0, 
+            "chamber_id": 0, 
+            "chamber": ""
+        }, 
+        {
+            "date": "2026-10-09", 
+            "action": "Ch. SL 2026-62", 
+            "importance": 1, 
+            "chamber_id": 0, 
+            "chamber": ""
+        }
+    ]
+}
