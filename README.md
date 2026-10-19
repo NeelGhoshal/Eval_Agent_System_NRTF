@@ -32,13 +32,15 @@ for now (marked `TODO`).
 
 ## LLM (Snowflake Cortex)
 All agents call one function, `src/eval_system/llm.py::snowflake_llm` (or `snowflake_json`), which posts to
-Snowflake's Cortex `inference:complete` REST endpoint. Set:
-```
-SNOWFLAKE_ACCOUNT=<account-url-prefix>   # https://<this>.snowflakecomputing.com
-SNOWFLAKE_TOKEN=<programmatic access token>
-SNOWFLAKE_MODEL=<optional model name>    # default mistral-large2
-```
-Without these the agents fall back to stubs. `agents/evaluation/agent.py` is a working example.
+Snowflake's Cortex `inference:complete` REST endpoint using key-pair (JWT) auth, which needs no network policy.
+
+One-time setup (from `src/`):
+1. `python setup_snowflake.py` creates a key pair, saves the private key to `src/.streamlit/secrets.toml`
+   (gitignored), and prints one `ALTER USER ... SET RSA_PUBLIC_KEY='...'` command.
+2. Run that command in a Snowsight worksheet as ACCOUNTADMIN.
+3. Test with `python -m eval_system.llm`.
+
+Set `SNOWFLAKE_MODEL` in `secrets.toml` to change the model (default `mistral-large2`).
 
 ## Web app (Streamlit)
 ```
@@ -49,4 +51,4 @@ cd src && streamlit run app.py     # http://localhost:8501
 ## Deploy (Streamlit Community Cloud)
 1. Push this repo to GitHub.
 2. On https://share.streamlit.io: New app > pick the repo, branch `main`, main file `src/app.py`.
-3. Under the app's Secrets settings add `SNOWFLAKE_ACCOUNT`, `SNOWFLAKE_TOKEN` (and optionally `SNOWFLAKE_MODEL`) as TOML, never in the repo.
+3. Paste the contents of your local `src/.streamlit/secrets.toml` into the app's Secrets settings. Never commit it.

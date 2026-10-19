@@ -10,7 +10,7 @@ from eval_system.llm import is_configured
 
 # Credentials: env vars, else src/.streamlit/secrets.toml (found relative to this file, so it works
 # from any working directory), else Streamlit Cloud's Secrets.
-_KEYS = ("SNOWFLAKE_ACCOUNT", "SNOWFLAKE_TOKEN", "SNOWFLAKE_MODEL")
+_KEYS = ("SNOWFLAKE_ACCOUNT", "SNOWFLAKE_TOKEN", "SNOWFLAKE_MODEL", "SNOWFLAKE_USER", "SNOWFLAKE_PRIVATE_KEY")
 _local = Path(__file__).parent / ".streamlit" / "secrets.toml"
 if _local.exists():
     _vals = tomllib.loads(_local.read_text(encoding="utf-8"))
@@ -75,7 +75,7 @@ def show_contradictions(r):
 
 st.title("Eval Agent System")
 if not is_configured():
-    st.warning("Snowflake LLM not configured: set SNOWFLAKE_ACCOUNT and SNOWFLAKE_TOKEN (see README). Agents will fail until then.")
+    st.warning("Snowflake LLM not configured: run `python setup_snowflake.py` in src/ (see README). Agents will fail until then.")
 st.write("Paste a document. Four agents evaluate quality, verify claims, check authority, and find contradictions.")
 
 document = st.text_area("Document", height=220, placeholder="Paste document text here...")

@@ -4,3 +4,4 @@ __pycache__/
 src/.streamlit/secrets.toml
 .streamlit/secrets.toml
 local_only
+*.p8
