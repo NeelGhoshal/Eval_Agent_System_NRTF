@@ -5,6 +5,7 @@ Reads:  state["document"]
 Writes: state["authority_check"]  (AuthorityCheckResult)
 """
 from ...state import AuthorityCheck, AuthorityCheckResult, EvalState
+from ...llm import snowflake_json, snowflake_llm  # noqa: F401  (shared Snowflake LLM)
 from .prompts import AUTHORITY_PROMPT, EXTRACT_PEOPLE_PROMPT  # noqa: F401
 
 

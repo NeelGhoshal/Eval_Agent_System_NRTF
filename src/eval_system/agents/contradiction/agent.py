@@ -5,6 +5,7 @@ Reads:  state["document"]
 Writes: state["contradictions"]  (ContradictionResult)
 """
 from ...state import Contradiction, ContradictionResult, EvalState
+from ...llm import snowflake_json, snowflake_llm  # noqa: F401  (shared Snowflake LLM)
 from .prompts import EXTERNAL_PROMPT, INTERNAL_PROMPT  # noqa: F401
 
 
