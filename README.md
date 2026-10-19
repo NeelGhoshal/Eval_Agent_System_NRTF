@@ -18,17 +18,24 @@ src/eval_system/
 Flow: START -> 4 agents in parallel -> `aggregate` -> END.
 
 ## Screenshots
-Overview: load a sample (here NC Senate Bill 2), run the four agents, and get one headline number per agent.
+A review of NC Senate Bill 2 ("Relief at the Pump"), one section per agent.
 
-![Overview with summary metrics](docs/screenshots/overview.png)
+**Overview and Evaluation Agent**: verdict banner, one headline card per agent, and the
+evaluation's quality criteria (completeness, provenance, clarity) with its summary.
 
-Results for the sample news article, one tab per agent:
+![Overview: verdict, KPI cards, and Evaluation Agent criteria](docs/screenshots/overview-evaluation.png)
 
-| Evaluation | Claims |
-|---|---|
-| ![Evaluation tab: scores and findings](docs/screenshots/results-evaluation.png) | ![Claims tab: verdicts with sources](docs/screenshots/results-claims.png) |
+**Claim Verification Agent**: each factual claim with a verdict, the reasoning, and the sources found.
 
-![Authority tab: who may act](docs/screenshots/results-authority.png)
+![Claims tab: verdicts with sources](docs/screenshots/claims.png)
+
+**Authority Check Agent**: each actor in the bill, whether they have standing to act, and why.
+
+![Authority tab: actors and their basis](docs/screenshots/authority.png)
+
+**Contradiction Agent**: conflicting statements within the document, rated by severity.
+
+![Contradictions tab: conflicting sections with severity](docs/screenshots/contradictions.png)
 
 ## Run
 ```
