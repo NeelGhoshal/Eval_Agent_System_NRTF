@@ -29,3 +29,14 @@ Edit only your folder (`agent.py`, `prompts.py`). Keep the node signature
 `def x_node(state: EvalState) -> dict` and return only your own state key. If your output
 shape changes, update its type in `state.py` and tell the others. All agents are stubs
 for now (marked `TODO`).
+
+## Web app (Streamlit)
+```
+cd src && streamlit run app.py     # http://localhost:8501
+```
+`src/app.py` is the whole UI; it calls the LangGraph directly.
+
+## Deploy (Streamlit Community Cloud)
+1. Push this repo to GitHub.
+2. On https://share.streamlit.io: New app > pick the repo, branch `main`, main file `src/app.py`.
+3. Add API keys (LLM, search) under the app's Secrets settings, never in the repo.
