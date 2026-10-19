@@ -21,7 +21,7 @@ class EvalFinding(TypedDict):
 class EvaluationResult(TypedDict):
     doc_type: Literal["nc_bill", "generic"]
     overall_score: float  # 0.0 - 1.0
-    criteria_scores: dict[str, float]  # completeness, provenance, clarity
+    criteria_scores: dict[str, Optional[float]]  # completeness, provenance, clarity (None = LLM unavailable)
     findings: list[EvalFinding]
     summary: str
 

@@ -40,7 +40,7 @@ One-time setup (from `src/`):
 2. Run that command in a Snowsight worksheet as ACCOUNTADMIN.
 3. Test with `python -m eval_system.llm`.
 
-Set `SNOWFLAKE_MODEL` in `secrets.toml` to change the model (default `mistral-large2`).
+Set `SNOWFLAKE_MODEL` in `secrets.toml` to change the model (default `claude-sonnet-4-5`; `mistral-large2` is retired).
 
 ## Web app (Streamlit)
 ```

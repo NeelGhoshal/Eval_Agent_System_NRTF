@@ -6,7 +6,6 @@ from pathlib import Path
 import streamlit as st
 
 from eval_system.graph import AGENT_NODES, build_graph
-from eval_system.llm import is_configured
 
 # Credentials: env vars, else src/.streamlit/secrets.toml (found relative to this file, so it works
 # from any working directory), else Streamlit Cloud's Secrets.
@@ -42,6 +41,14 @@ def show_evaluation(e):
         width="stretch",
     )
     st.caption(e["summary"])
+    findings = e.get("findings", [])
+    st.markdown("**Findings**")
+    if not findings:
+        st.caption("No findings.")
+    for f in findings:
+        st.markdown(f"{SEVERITY_ICON[f['severity']]} **{f['severity']}** `{f['code']}` — {f['message']}")
+        if f.get("evidence"):
+            st.caption(f["evidence"])
 
 
 def show_claims(r):
@@ -74,8 +81,6 @@ def show_contradictions(r):
 
 
 st.title("Eval Agent System")
-if not is_configured():
-    st.warning("Snowflake LLM not configured: run `python setup_snowflake.py` in src/ (see README). Agents will fail until then.")
 st.write("Paste a document. Four agents evaluate quality, verify claims, check authority, and find contradictions.")
 
 document = st.text_area("Document", height=220, placeholder="Paste document text here...")
