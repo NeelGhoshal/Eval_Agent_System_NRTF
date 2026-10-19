@@ -17,6 +17,19 @@ src/eval_system/
 
 Flow: START -> 4 agents in parallel -> `aggregate` -> END.
 
+## Screenshots
+Overview: load a sample (here NC Senate Bill 2), run the four agents, and get one headline number per agent.
+
+![Overview with summary metrics](docs/screenshots/overview.png)
+
+Results for the sample news article, one tab per agent:
+
+| Evaluation | Claims |
+|---|---|
+| ![Evaluation tab: scores and findings](docs/screenshots/results-evaluation.png) | ![Claims tab: verdicts with sources](docs/screenshots/results-claims.png) |
+
+![Authority tab: who may act](docs/screenshots/results-authority.png)
+
 ## Run
 ```
 python -m venv .venv && .venv\Scripts\activate
