@@ -61,7 +61,13 @@ cd src && streamlit run app.py     # http://localhost:8501
 ```
 `src/app.py` is the whole UI; it calls the LangGraph directly.
 
+## Error monitoring (Sentry)
+Agent failures are reported to Sentry project `lumigrid/eval-agent-system` when `SENTRY_DSN` is set
+(in `.env` or `secrets.toml`; Client Keys in the project's settings). Without it, Sentry is off.
+Optional: `SENTRY_ENVIRONMENT` (default `local`), `SENTRY_TRACES_SAMPLE_RATE` (default `0`).
+
 ## Deploy (Streamlit Community Cloud)
 1. Push this repo to GitHub.
 2. On https://share.streamlit.io: New app > pick the repo, branch `main`, main file `src/app.py`.
-3. Paste the contents of your local `src/.streamlit/secrets.toml` into the app's Secrets settings. Never commit it.
+3. Paste the contents of your local `src/.streamlit/secrets.toml` into the app's Secrets settings, plus
+   `SENTRY_DSN = "..."` and `SENTRY_ENVIRONMENT = "production"`. Never commit it.
